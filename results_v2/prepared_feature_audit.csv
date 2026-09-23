@@ -1,0 +1,9 @@
+split,representation,subjects,rows,features,missing_fraction,constant_or_empty_columns,duplicate_complete_rows
+train,subject_v1,141,141,670,0.0,146,0
+train,subject_plus,141,141,1333,4.788431150340777e-05,170,0
+train,window14,141,784,1333,0.004146125817168578,166,0
+train,window28,141,449,1333,0.0016657839292785334,166,0
+validation,subject_v1,33,33,670,0.0,151,0
+validation,subject_plus,33,33,1333,0.00022732955966264294,175,0
+validation,window14,33,196,1333,0.0022199427407872375,173,0
+validation,window28,33,110,1333,0.0013639773579758577,172,0

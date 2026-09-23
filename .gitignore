@@ -16,3 +16,11 @@ env/
 
 128.치매 고위험군 라이프로그/
 Data/
+
+# Rebuildable wearable feature caches and local training artifacts
+results_v2/cache/
+results_v2/run_*/
+results_v3/cache/
+results_v3/run_*/
+
+Google-Ajou-AICapstone/

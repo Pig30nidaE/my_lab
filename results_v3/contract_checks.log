@@ -1,0 +1,16 @@
+test_augmentation_parentage (__main__.Contracts.test_augmentation_parentage) ... ok
+test_factory_apis_without_fit (__main__.Contracts.test_factory_apis_without_fit) ... ok
+test_hierarchy_and_policy (__main__.Contracts.test_hierarchy_and_policy) ... ok
+test_hr_positions (__main__.Contracts.test_hr_positions) ... ok
+test_pipeline_with_training_spy (__main__.Contracts.test_pipeline_with_training_spy) ... /Users/pig30nidae/.matplotlib is not a writable directory
+Matplotlib created a temporary cache directory at /var/folders/2y/rhk2qf4s47j0mqgkxwsyvjjw0000gn/T/matplotlib-93dmvjr_ because there was an issue with the default path (/Users/pig30nidae/.matplotlib); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib is building the font cache; this may take a moment.
+ok
+test_processor_train_only (__main__.Contracts.test_processor_train_only) ... ok
+test_task_membership (__main__.Contracts.test_task_membership) ... ok
+test_temporal_gaps (__main__.Contracts.test_temporal_gaps) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 9.799s
+
+OK

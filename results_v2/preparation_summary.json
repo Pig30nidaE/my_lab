@@ -1,0 +1,124 @@
+{
+  "train": {
+    "class_counts": {
+      "CN": 85,
+      "MCI": 47,
+      "DEM": 9
+    },
+    "representations": {
+      "subject_v1": {
+        "rows": 141,
+        "features": 670,
+        "subjects": 141
+      },
+      "subject_plus": {
+        "rows": 141,
+        "features": 1333,
+        "subjects": 141
+      },
+      "window14": {
+        "rows": 784,
+        "features": 1333,
+        "subjects": 141
+      },
+      "window28": {
+        "rows": 449,
+        "features": 1333,
+        "subjects": 141
+      }
+    },
+    "audit": [
+      {
+        "split": "requested_split",
+        "modality": "activity",
+        "input_rows": 9705,
+        "bad_dates": 0,
+        "duplicate_subject_dates": 0,
+        "kept_rows": 9705,
+        "subjects": 141
+      },
+      {
+        "split": "requested_split",
+        "modality": "sleep",
+        "input_rows": 9705,
+        "bad_dates": 0,
+        "duplicate_subject_dates": 11,
+        "kept_rows": 9694,
+        "subjects": 141
+      },
+      {
+        "representation": "window14",
+        "rows": 784,
+        "subjects": 141,
+        "full_period_fallback_subjects": 0
+      },
+      {
+        "representation": "window28",
+        "rows": 449,
+        "subjects": 141,
+        "full_period_fallback_subjects": 0
+      }
+    ]
+  },
+  "val": {
+    "class_counts": {
+      "CN": 26,
+      "MCI": 4,
+      "DEM": 3
+    },
+    "representations": {
+      "subject_v1": {
+        "rows": 33,
+        "features": 670,
+        "subjects": 33
+      },
+      "subject_plus": {
+        "rows": 33,
+        "features": 1333,
+        "subjects": 33
+      },
+      "window14": {
+        "rows": 196,
+        "features": 1333,
+        "subjects": 33
+      },
+      "window28": {
+        "rows": 110,
+        "features": 1333,
+        "subjects": 33
+      }
+    },
+    "audit": [
+      {
+        "split": "requested_split",
+        "modality": "activity",
+        "input_rows": 2478,
+        "bad_dates": 0,
+        "duplicate_subject_dates": 0,
+        "kept_rows": 2478,
+        "subjects": 33
+      },
+      {
+        "split": "requested_split",
+        "modality": "sleep",
+        "input_rows": 2478,
+        "bad_dates": 0,
+        "duplicate_subject_dates": 1,
+        "kept_rows": 2477,
+        "subjects": 33
+      },
+      {
+        "representation": "window14",
+        "rows": 196,
+        "subjects": 33,
+        "full_period_fallback_subjects": 0
+      },
+      {
+        "representation": "window28",
+        "rows": 110,
+        "subjects": 33,
+        "full_period_fallback_subjects": 0
+      }
+    ]
+  }
+}

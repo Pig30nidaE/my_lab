@@ -1,0 +1,1334 @@
+feature,modality,family,description
+activity__average_met__median,activity,physiology,activity_average_met; across days median
+activity__average_met__iqr,activity,physiology,activity_average_met; across days iqr
+activity__average_met__p10,activity,physiology,activity_average_met; across days p10
+activity__average_met__p90,activity,physiology,activity_average_met; across days p90
+activity__average_met__missing_fraction,activity,quality,activity_average_met; daily missing fraction
+activity__cal_active__median,activity,physiology,activity_cal_active; across days median
+activity__cal_active__iqr,activity,physiology,activity_cal_active; across days iqr
+activity__cal_active__p10,activity,physiology,activity_cal_active; across days p10
+activity__cal_active__p90,activity,physiology,activity_cal_active; across days p90
+activity__cal_active__missing_fraction,activity,quality,activity_cal_active; daily missing fraction
+activity__cal_total__median,activity,physiology,activity_cal_total; across days median
+activity__cal_total__iqr,activity,physiology,activity_cal_total; across days iqr
+activity__cal_total__p10,activity,physiology,activity_cal_total; across days p10
+activity__cal_total__p90,activity,physiology,activity_cal_total; across days p90
+activity__cal_total__missing_fraction,activity,quality,activity_cal_total; daily missing fraction
+activity__daily_movement__median,activity,physiology,activity_daily_movement; across days median
+activity__daily_movement__iqr,activity,physiology,activity_daily_movement; across days iqr
+activity__daily_movement__p10,activity,physiology,activity_daily_movement; across days p10
+activity__daily_movement__p90,activity,physiology,activity_daily_movement; across days p90
+activity__daily_movement__missing_fraction,activity,quality,activity_daily_movement; daily missing fraction
+activity__high__median,activity,physiology,activity_high; across days median
+activity__high__iqr,activity,physiology,activity_high; across days iqr
+activity__high__p10,activity,physiology,activity_high; across days p10
+activity__high__p90,activity,physiology,activity_high; across days p90
+activity__high__missing_fraction,activity,quality,activity_high; daily missing fraction
+activity__inactive__median,activity,physiology,activity_inactive; across days median
+activity__inactive__iqr,activity,physiology,activity_inactive; across days iqr
+activity__inactive__p10,activity,physiology,activity_inactive; across days p10
+activity__inactive__p90,activity,physiology,activity_inactive; across days p90
+activity__inactive__missing_fraction,activity,quality,activity_inactive; daily missing fraction
+activity__inactivity_alerts__median,activity,physiology,activity_inactivity_alerts; across days median
+activity__inactivity_alerts__iqr,activity,physiology,activity_inactivity_alerts; across days iqr
+activity__inactivity_alerts__p10,activity,physiology,activity_inactivity_alerts; across days p10
+activity__inactivity_alerts__p90,activity,physiology,activity_inactivity_alerts; across days p90
+activity__inactivity_alerts__missing_fraction,activity,quality,activity_inactivity_alerts; daily missing fraction
+activity__low__median,activity,physiology,activity_low; across days median
+activity__low__iqr,activity,physiology,activity_low; across days iqr
+activity__low__p10,activity,physiology,activity_low; across days p10
+activity__low__p90,activity,physiology,activity_low; across days p90
+activity__low__missing_fraction,activity,quality,activity_low; daily missing fraction
+activity__medium__median,activity,physiology,activity_medium; across days median
+activity__medium__iqr,activity,physiology,activity_medium; across days iqr
+activity__medium__p10,activity,physiology,activity_medium; across days p10
+activity__medium__p90,activity,physiology,activity_medium; across days p90
+activity__medium__missing_fraction,activity,quality,activity_medium; daily missing fraction
+activity__met_min_high__median,activity,physiology,activity_met_min_high; across days median
+activity__met_min_high__iqr,activity,physiology,activity_met_min_high; across days iqr
+activity__met_min_high__p10,activity,physiology,activity_met_min_high; across days p10
+activity__met_min_high__p90,activity,physiology,activity_met_min_high; across days p90
+activity__met_min_high__missing_fraction,activity,quality,activity_met_min_high; daily missing fraction
+activity__met_min_inactive__median,activity,physiology,activity_met_min_inactive; across days median
+activity__met_min_inactive__iqr,activity,physiology,activity_met_min_inactive; across days iqr
+activity__met_min_inactive__p10,activity,physiology,activity_met_min_inactive; across days p10
+activity__met_min_inactive__p90,activity,physiology,activity_met_min_inactive; across days p90
+activity__met_min_inactive__missing_fraction,activity,quality,activity_met_min_inactive; daily missing fraction
+activity__met_min_low__median,activity,physiology,activity_met_min_low; across days median
+activity__met_min_low__iqr,activity,physiology,activity_met_min_low; across days iqr
+activity__met_min_low__p10,activity,physiology,activity_met_min_low; across days p10
+activity__met_min_low__p90,activity,physiology,activity_met_min_low; across days p90
+activity__met_min_low__missing_fraction,activity,quality,activity_met_min_low; daily missing fraction
+activity__met_min_medium__median,activity,physiology,activity_met_min_medium; across days median
+activity__met_min_medium__iqr,activity,physiology,activity_met_min_medium; across days iqr
+activity__met_min_medium__p10,activity,physiology,activity_met_min_medium; across days p10
+activity__met_min_medium__p90,activity,physiology,activity_met_min_medium; across days p90
+activity__met_min_medium__missing_fraction,activity,quality,activity_met_min_medium; daily missing fraction
+activity__non_wear__median,activity,quality,activity_non_wear; across days median
+activity__non_wear__iqr,activity,quality,activity_non_wear; across days iqr
+activity__non_wear__p10,activity,quality,activity_non_wear; across days p10
+activity__non_wear__p90,activity,quality,activity_non_wear; across days p90
+activity__non_wear__missing_fraction,activity,quality,activity_non_wear; daily missing fraction
+activity__rest__median,activity,physiology,activity_rest; across days median
+activity__rest__iqr,activity,physiology,activity_rest; across days iqr
+activity__rest__p10,activity,physiology,activity_rest; across days p10
+activity__rest__p90,activity,physiology,activity_rest; across days p90
+activity__rest__missing_fraction,activity,quality,activity_rest; daily missing fraction
+activity__score__median,activity,vendor,activity_score; across days median
+activity__score__iqr,activity,vendor,activity_score; across days iqr
+activity__score__p10,activity,vendor,activity_score; across days p10
+activity__score__p90,activity,vendor,activity_score; across days p90
+activity__score__missing_fraction,activity,quality,activity_score; daily missing fraction
+activity__score_meet_daily_targets__median,activity,vendor,activity_score_meet_daily_targets; across days median
+activity__score_meet_daily_targets__iqr,activity,vendor,activity_score_meet_daily_targets; across days iqr
+activity__score_meet_daily_targets__p10,activity,vendor,activity_score_meet_daily_targets; across days p10
+activity__score_meet_daily_targets__p90,activity,vendor,activity_score_meet_daily_targets; across days p90
+activity__score_meet_daily_targets__missing_fraction,activity,quality,activity_score_meet_daily_targets; daily missing fraction
+activity__score_move_every_hour__median,activity,vendor,activity_score_move_every_hour; across days median
+activity__score_move_every_hour__iqr,activity,vendor,activity_score_move_every_hour; across days iqr
+activity__score_move_every_hour__p10,activity,vendor,activity_score_move_every_hour; across days p10
+activity__score_move_every_hour__p90,activity,vendor,activity_score_move_every_hour; across days p90
+activity__score_move_every_hour__missing_fraction,activity,quality,activity_score_move_every_hour; daily missing fraction
+activity__score_recovery_time__median,activity,vendor,activity_score_recovery_time; across days median
+activity__score_recovery_time__iqr,activity,vendor,activity_score_recovery_time; across days iqr
+activity__score_recovery_time__p10,activity,vendor,activity_score_recovery_time; across days p10
+activity__score_recovery_time__p90,activity,vendor,activity_score_recovery_time; across days p90
+activity__score_recovery_time__missing_fraction,activity,quality,activity_score_recovery_time; daily missing fraction
+activity__score_stay_active__median,activity,vendor,activity_score_stay_active; across days median
+activity__score_stay_active__iqr,activity,vendor,activity_score_stay_active; across days iqr
+activity__score_stay_active__p10,activity,vendor,activity_score_stay_active; across days p10
+activity__score_stay_active__p90,activity,vendor,activity_score_stay_active; across days p90
+activity__score_stay_active__missing_fraction,activity,quality,activity_score_stay_active; daily missing fraction
+activity__score_training_frequency__median,activity,vendor,activity_score_training_frequency; across days median
+activity__score_training_frequency__iqr,activity,vendor,activity_score_training_frequency; across days iqr
+activity__score_training_frequency__p10,activity,vendor,activity_score_training_frequency; across days p10
+activity__score_training_frequency__p90,activity,vendor,activity_score_training_frequency; across days p90
+activity__score_training_frequency__missing_fraction,activity,quality,activity_score_training_frequency; daily missing fraction
+activity__score_training_volume__median,activity,vendor,activity_score_training_volume; across days median
+activity__score_training_volume__iqr,activity,vendor,activity_score_training_volume; across days iqr
+activity__score_training_volume__p10,activity,vendor,activity_score_training_volume; across days p10
+activity__score_training_volume__p90,activity,vendor,activity_score_training_volume; across days p90
+activity__score_training_volume__missing_fraction,activity,quality,activity_score_training_volume; daily missing fraction
+activity__steps__median,activity,physiology,activity_steps; across days median
+activity__steps__iqr,activity,physiology,activity_steps; across days iqr
+activity__steps__p10,activity,physiology,activity_steps; across days p10
+activity__steps__p90,activity,physiology,activity_steps; across days p90
+activity__steps__missing_fraction,activity,quality,activity_steps; daily missing fraction
+activity__total__median,activity,physiology,activity_total; across days median
+activity__total__iqr,activity,physiology,activity_total; across days iqr
+activity__total__p10,activity,physiology,activity_total; across days p10
+activity__total__p90,activity,physiology,activity_total; across days p90
+activity__total__missing_fraction,activity,quality,activity_total; daily missing fraction
+activity__state_code_0_fraction__median,activity,physiology,CONVERT(activity_class_5min USING utf8): code_0_fraction; across days median
+activity__state_code_0_fraction__iqr,activity,physiology,CONVERT(activity_class_5min USING utf8): code_0_fraction; across days iqr
+activity__state_code_0_fraction__p10,activity,physiology,CONVERT(activity_class_5min USING utf8): code_0_fraction; across days p10
+activity__state_code_0_fraction__p90,activity,physiology,CONVERT(activity_class_5min USING utf8): code_0_fraction; across days p90
+activity__state_code_0_fraction__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): code_0_fraction; daily missing fraction
+activity__state_code_0_longest_minutes__median,activity,physiology,CONVERT(activity_class_5min USING utf8): code_0_longest_minutes; across days median
+activity__state_code_0_longest_minutes__iqr,activity,physiology,CONVERT(activity_class_5min USING utf8): code_0_longest_minutes; across days iqr
+activity__state_code_0_longest_minutes__p10,activity,physiology,CONVERT(activity_class_5min USING utf8): code_0_longest_minutes; across days p10
+activity__state_code_0_longest_minutes__p90,activity,physiology,CONVERT(activity_class_5min USING utf8): code_0_longest_minutes; across days p90
+activity__state_code_0_longest_minutes__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): code_0_longest_minutes; daily missing fraction
+activity__state_code_1_fraction__median,activity,physiology,CONVERT(activity_class_5min USING utf8): code_1_fraction; across days median
+activity__state_code_1_fraction__iqr,activity,physiology,CONVERT(activity_class_5min USING utf8): code_1_fraction; across days iqr
+activity__state_code_1_fraction__p10,activity,physiology,CONVERT(activity_class_5min USING utf8): code_1_fraction; across days p10
+activity__state_code_1_fraction__p90,activity,physiology,CONVERT(activity_class_5min USING utf8): code_1_fraction; across days p90
+activity__state_code_1_fraction__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): code_1_fraction; daily missing fraction
+activity__state_code_1_longest_minutes__median,activity,physiology,CONVERT(activity_class_5min USING utf8): code_1_longest_minutes; across days median
+activity__state_code_1_longest_minutes__iqr,activity,physiology,CONVERT(activity_class_5min USING utf8): code_1_longest_minutes; across days iqr
+activity__state_code_1_longest_minutes__p10,activity,physiology,CONVERT(activity_class_5min USING utf8): code_1_longest_minutes; across days p10
+activity__state_code_1_longest_minutes__p90,activity,physiology,CONVERT(activity_class_5min USING utf8): code_1_longest_minutes; across days p90
+activity__state_code_1_longest_minutes__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): code_1_longest_minutes; daily missing fraction
+activity__state_code_2_fraction__median,activity,physiology,CONVERT(activity_class_5min USING utf8): code_2_fraction; across days median
+activity__state_code_2_fraction__iqr,activity,physiology,CONVERT(activity_class_5min USING utf8): code_2_fraction; across days iqr
+activity__state_code_2_fraction__p10,activity,physiology,CONVERT(activity_class_5min USING utf8): code_2_fraction; across days p10
+activity__state_code_2_fraction__p90,activity,physiology,CONVERT(activity_class_5min USING utf8): code_2_fraction; across days p90
+activity__state_code_2_fraction__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): code_2_fraction; daily missing fraction
+activity__state_code_2_longest_minutes__median,activity,physiology,CONVERT(activity_class_5min USING utf8): code_2_longest_minutes; across days median
+activity__state_code_2_longest_minutes__iqr,activity,physiology,CONVERT(activity_class_5min USING utf8): code_2_longest_minutes; across days iqr
+activity__state_code_2_longest_minutes__p10,activity,physiology,CONVERT(activity_class_5min USING utf8): code_2_longest_minutes; across days p10
+activity__state_code_2_longest_minutes__p90,activity,physiology,CONVERT(activity_class_5min USING utf8): code_2_longest_minutes; across days p90
+activity__state_code_2_longest_minutes__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): code_2_longest_minutes; daily missing fraction
+activity__state_code_3_fraction__median,activity,physiology,CONVERT(activity_class_5min USING utf8): code_3_fraction; across days median
+activity__state_code_3_fraction__iqr,activity,physiology,CONVERT(activity_class_5min USING utf8): code_3_fraction; across days iqr
+activity__state_code_3_fraction__p10,activity,physiology,CONVERT(activity_class_5min USING utf8): code_3_fraction; across days p10
+activity__state_code_3_fraction__p90,activity,physiology,CONVERT(activity_class_5min USING utf8): code_3_fraction; across days p90
+activity__state_code_3_fraction__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): code_3_fraction; daily missing fraction
+activity__state_code_3_longest_minutes__median,activity,physiology,CONVERT(activity_class_5min USING utf8): code_3_longest_minutes; across days median
+activity__state_code_3_longest_minutes__iqr,activity,physiology,CONVERT(activity_class_5min USING utf8): code_3_longest_minutes; across days iqr
+activity__state_code_3_longest_minutes__p10,activity,physiology,CONVERT(activity_class_5min USING utf8): code_3_longest_minutes; across days p10
+activity__state_code_3_longest_minutes__p90,activity,physiology,CONVERT(activity_class_5min USING utf8): code_3_longest_minutes; across days p90
+activity__state_code_3_longest_minutes__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): code_3_longest_minutes; daily missing fraction
+activity__state_code_4_fraction__median,activity,physiology,CONVERT(activity_class_5min USING utf8): code_4_fraction; across days median
+activity__state_code_4_fraction__iqr,activity,physiology,CONVERT(activity_class_5min USING utf8): code_4_fraction; across days iqr
+activity__state_code_4_fraction__p10,activity,physiology,CONVERT(activity_class_5min USING utf8): code_4_fraction; across days p10
+activity__state_code_4_fraction__p90,activity,physiology,CONVERT(activity_class_5min USING utf8): code_4_fraction; across days p90
+activity__state_code_4_fraction__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): code_4_fraction; daily missing fraction
+activity__state_code_4_longest_minutes__median,activity,physiology,CONVERT(activity_class_5min USING utf8): code_4_longest_minutes; across days median
+activity__state_code_4_longest_minutes__iqr,activity,physiology,CONVERT(activity_class_5min USING utf8): code_4_longest_minutes; across days iqr
+activity__state_code_4_longest_minutes__p10,activity,physiology,CONVERT(activity_class_5min USING utf8): code_4_longest_minutes; across days p10
+activity__state_code_4_longest_minutes__p90,activity,physiology,CONVERT(activity_class_5min USING utf8): code_4_longest_minutes; across days p90
+activity__state_code_4_longest_minutes__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): code_4_longest_minutes; daily missing fraction
+activity__state_code_5_fraction__median,activity,physiology,CONVERT(activity_class_5min USING utf8): code_5_fraction; across days median
+activity__state_code_5_fraction__iqr,activity,physiology,CONVERT(activity_class_5min USING utf8): code_5_fraction; across days iqr
+activity__state_code_5_fraction__p10,activity,physiology,CONVERT(activity_class_5min USING utf8): code_5_fraction; across days p10
+activity__state_code_5_fraction__p90,activity,physiology,CONVERT(activity_class_5min USING utf8): code_5_fraction; across days p90
+activity__state_code_5_fraction__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): code_5_fraction; daily missing fraction
+activity__state_code_5_longest_minutes__median,activity,physiology,CONVERT(activity_class_5min USING utf8): code_5_longest_minutes; across days median
+activity__state_code_5_longest_minutes__iqr,activity,physiology,CONVERT(activity_class_5min USING utf8): code_5_longest_minutes; across days iqr
+activity__state_code_5_longest_minutes__p10,activity,physiology,CONVERT(activity_class_5min USING utf8): code_5_longest_minutes; across days p10
+activity__state_code_5_longest_minutes__p90,activity,physiology,CONVERT(activity_class_5min USING utf8): code_5_longest_minutes; across days p90
+activity__state_code_5_longest_minutes__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): code_5_longest_minutes; daily missing fraction
+activity__state_entropy__median,activity,physiology,CONVERT(activity_class_5min USING utf8): entropy; across days median
+activity__state_entropy__iqr,activity,physiology,CONVERT(activity_class_5min USING utf8): entropy; across days iqr
+activity__state_entropy__p10,activity,physiology,CONVERT(activity_class_5min USING utf8): entropy; across days p10
+activity__state_entropy__p90,activity,physiology,CONVERT(activity_class_5min USING utf8): entropy; across days p90
+activity__state_entropy__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): entropy; daily missing fraction
+activity__state_transition_rate__median,activity,physiology,CONVERT(activity_class_5min USING utf8): transition_rate; across days median
+activity__state_transition_rate__iqr,activity,physiology,CONVERT(activity_class_5min USING utf8): transition_rate; across days iqr
+activity__state_transition_rate__p10,activity,physiology,CONVERT(activity_class_5min USING utf8): transition_rate; across days p10
+activity__state_transition_rate__p90,activity,physiology,CONVERT(activity_class_5min USING utf8): transition_rate; across days p90
+activity__state_transition_rate__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): transition_rate; daily missing fraction
+activity__state_valid_fraction__median,activity,quality,CONVERT(activity_class_5min USING utf8): valid_fraction; across days median
+activity__state_valid_fraction__iqr,activity,quality,CONVERT(activity_class_5min USING utf8): valid_fraction; across days iqr
+activity__state_valid_fraction__p10,activity,quality,CONVERT(activity_class_5min USING utf8): valid_fraction; across days p10
+activity__state_valid_fraction__p90,activity,quality,CONVERT(activity_class_5min USING utf8): valid_fraction; across days p90
+activity__state_valid_fraction__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): valid_fraction; daily missing fraction
+activity__state_length__median,activity,quality,CONVERT(activity_class_5min USING utf8): length; across days median
+activity__state_length__iqr,activity,quality,CONVERT(activity_class_5min USING utf8): length; across days iqr
+activity__state_length__p10,activity,quality,CONVERT(activity_class_5min USING utf8): length; across days p10
+activity__state_length__p90,activity,quality,CONVERT(activity_class_5min USING utf8): length; across days p90
+activity__state_length__missing_fraction,activity,quality,CONVERT(activity_class_5min USING utf8): length; daily missing fraction
+activity__met_mean__median,activity,physiology,CONVERT(activity_met_1min USING utf8): mean; across days median
+activity__met_mean__iqr,activity,physiology,CONVERT(activity_met_1min USING utf8): mean; across days iqr
+activity__met_mean__p10,activity,physiology,CONVERT(activity_met_1min USING utf8): mean; across days p10
+activity__met_mean__p90,activity,physiology,CONVERT(activity_met_1min USING utf8): mean; across days p90
+activity__met_mean__missing_fraction,activity,quality,CONVERT(activity_met_1min USING utf8): mean; daily missing fraction
+activity__met_std__median,activity,physiology,CONVERT(activity_met_1min USING utf8): std; across days median
+activity__met_std__iqr,activity,physiology,CONVERT(activity_met_1min USING utf8): std; across days iqr
+activity__met_std__p10,activity,physiology,CONVERT(activity_met_1min USING utf8): std; across days p10
+activity__met_std__p90,activity,physiology,CONVERT(activity_met_1min USING utf8): std; across days p90
+activity__met_std__missing_fraction,activity,quality,CONVERT(activity_met_1min USING utf8): std; daily missing fraction
+activity__met_p10__median,activity,physiology,CONVERT(activity_met_1min USING utf8): p10; across days median
+activity__met_p10__iqr,activity,physiology,CONVERT(activity_met_1min USING utf8): p10; across days iqr
+activity__met_p10__p10,activity,physiology,CONVERT(activity_met_1min USING utf8): p10; across days p10
+activity__met_p10__p90,activity,physiology,CONVERT(activity_met_1min USING utf8): p10; across days p90
+activity__met_p10__missing_fraction,activity,quality,CONVERT(activity_met_1min USING utf8): p10; daily missing fraction
+activity__met_p90__median,activity,physiology,CONVERT(activity_met_1min USING utf8): p90; across days median
+activity__met_p90__iqr,activity,physiology,CONVERT(activity_met_1min USING utf8): p90; across days iqr
+activity__met_p90__p10,activity,physiology,CONVERT(activity_met_1min USING utf8): p90; across days p10
+activity__met_p90__p90,activity,physiology,CONVERT(activity_met_1min USING utf8): p90; across days p90
+activity__met_p90__missing_fraction,activity,quality,CONVERT(activity_met_1min USING utf8): p90; daily missing fraction
+activity__met_rmssd_adjacent__median,activity,physiology,CONVERT(activity_met_1min USING utf8): rmssd_adjacent; across days median
+activity__met_rmssd_adjacent__iqr,activity,physiology,CONVERT(activity_met_1min USING utf8): rmssd_adjacent; across days iqr
+activity__met_rmssd_adjacent__p10,activity,physiology,CONVERT(activity_met_1min USING utf8): rmssd_adjacent; across days p10
+activity__met_rmssd_adjacent__p90,activity,physiology,CONVERT(activity_met_1min USING utf8): rmssd_adjacent; across days p90
+activity__met_rmssd_adjacent__missing_fraction,activity,quality,CONVERT(activity_met_1min USING utf8): rmssd_adjacent; daily missing fraction
+activity__met_lag1__median,activity,physiology,CONVERT(activity_met_1min USING utf8): lag1; across days median
+activity__met_lag1__iqr,activity,physiology,CONVERT(activity_met_1min USING utf8): lag1; across days iqr
+activity__met_lag1__p10,activity,physiology,CONVERT(activity_met_1min USING utf8): lag1; across days p10
+activity__met_lag1__p90,activity,physiology,CONVERT(activity_met_1min USING utf8): lag1; across days p90
+activity__met_lag1__missing_fraction,activity,quality,CONVERT(activity_met_1min USING utf8): lag1; daily missing fraction
+activity__met_last_first_third__median,activity,physiology,CONVERT(activity_met_1min USING utf8): last_first_third; across days median
+activity__met_last_first_third__iqr,activity,physiology,CONVERT(activity_met_1min USING utf8): last_first_third; across days iqr
+activity__met_last_first_third__p10,activity,physiology,CONVERT(activity_met_1min USING utf8): last_first_third; across days p10
+activity__met_last_first_third__p90,activity,physiology,CONVERT(activity_met_1min USING utf8): last_first_third; across days p90
+activity__met_last_first_third__missing_fraction,activity,quality,CONVERT(activity_met_1min USING utf8): last_first_third; daily missing fraction
+activity__met_valid_fraction__median,activity,quality,CONVERT(activity_met_1min USING utf8): valid_fraction; across days median
+activity__met_valid_fraction__iqr,activity,quality,CONVERT(activity_met_1min USING utf8): valid_fraction; across days iqr
+activity__met_valid_fraction__p10,activity,quality,CONVERT(activity_met_1min USING utf8): valid_fraction; across days p10
+activity__met_valid_fraction__p90,activity,quality,CONVERT(activity_met_1min USING utf8): valid_fraction; across days p90
+activity__met_valid_fraction__missing_fraction,activity,quality,CONVERT(activity_met_1min USING utf8): valid_fraction; daily missing fraction
+activity__met_length__median,activity,quality,CONVERT(activity_met_1min USING utf8): length; across days median
+activity__met_length__iqr,activity,quality,CONVERT(activity_met_1min USING utf8): length; across days iqr
+activity__met_length__p10,activity,quality,CONVERT(activity_met_1min USING utf8): length; across days p10
+activity__met_length__p90,activity,quality,CONVERT(activity_met_1min USING utf8): length; across days p90
+activity__met_length__missing_fraction,activity,quality,CONVERT(activity_met_1min USING utf8): length; daily missing fraction
+activity__met_cosinor_amplitude__median,activity,physiology,MET clock: cosinor_amplitude; across days median
+activity__met_cosinor_amplitude__iqr,activity,physiology,MET clock: cosinor_amplitude; across days iqr
+activity__met_cosinor_amplitude__p10,activity,physiology,MET clock: cosinor_amplitude; across days p10
+activity__met_cosinor_amplitude__p90,activity,physiology,MET clock: cosinor_amplitude; across days p90
+activity__met_cosinor_amplitude__missing_fraction,activity,quality,MET clock: cosinor_amplitude; daily missing fraction
+activity__met_cosinor_relative_amplitude__median,activity,physiology,MET clock: cosinor_relative_amplitude; across days median
+activity__met_cosinor_relative_amplitude__iqr,activity,physiology,MET clock: cosinor_relative_amplitude; across days iqr
+activity__met_cosinor_relative_amplitude__p10,activity,physiology,MET clock: cosinor_relative_amplitude; across days p10
+activity__met_cosinor_relative_amplitude__p90,activity,physiology,MET clock: cosinor_relative_amplitude; across days p90
+activity__met_cosinor_relative_amplitude__missing_fraction,activity,quality,MET clock: cosinor_relative_amplitude; daily missing fraction
+activity__met_cosinor_phase_cos__median,activity,physiology,MET clock: cosinor_phase_cos; across days median
+activity__met_cosinor_phase_cos__iqr,activity,physiology,MET clock: cosinor_phase_cos; across days iqr
+activity__met_cosinor_phase_cos__p10,activity,physiology,MET clock: cosinor_phase_cos; across days p10
+activity__met_cosinor_phase_cos__p90,activity,physiology,MET clock: cosinor_phase_cos; across days p90
+activity__met_cosinor_phase_cos__missing_fraction,activity,quality,MET clock: cosinor_phase_cos; daily missing fraction
+activity__met_cosinor_phase_sin__median,activity,physiology,MET clock: cosinor_phase_sin; across days median
+activity__met_cosinor_phase_sin__iqr,activity,physiology,MET clock: cosinor_phase_sin; across days iqr
+activity__met_cosinor_phase_sin__p10,activity,physiology,MET clock: cosinor_phase_sin; across days p10
+activity__met_cosinor_phase_sin__p90,activity,physiology,MET clock: cosinor_phase_sin; across days p90
+activity__met_cosinor_phase_sin__missing_fraction,activity,quality,MET clock: cosinor_phase_sin; daily missing fraction
+activity__met_day_night_difference__median,activity,physiology,MET clock: day_night_difference; across days median
+activity__met_day_night_difference__iqr,activity,physiology,MET clock: day_night_difference; across days iqr
+activity__met_day_night_difference__p10,activity,physiology,MET clock: day_night_difference; across days p10
+activity__met_day_night_difference__p90,activity,physiology,MET clock: day_night_difference; across days p90
+activity__met_day_night_difference__missing_fraction,activity,quality,MET clock: day_night_difference; daily missing fraction
+activity__met_relative_high10_low5__median,activity,physiology,MET clock: relative_high10_low5; across days median
+activity__met_relative_high10_low5__iqr,activity,physiology,MET clock: relative_high10_low5; across days iqr
+activity__met_relative_high10_low5__p10,activity,physiology,MET clock: relative_high10_low5; across days p10
+activity__met_relative_high10_low5__p90,activity,physiology,MET clock: relative_high10_low5; across days p90
+activity__met_relative_high10_low5__missing_fraction,activity,quality,MET clock: relative_high10_low5; daily missing fraction
+activity__met_low5_met__median,activity,physiology,MET clock: low5_met; across days median
+activity__met_low5_met__iqr,activity,physiology,MET clock: low5_met; across days iqr
+activity__met_low5_met__p10,activity,physiology,MET clock: low5_met; across days p10
+activity__met_low5_met__p90,activity,physiology,MET clock: low5_met; across days p90
+activity__met_low5_met__missing_fraction,activity,quality,MET clock: low5_met; daily missing fraction
+activity__met_high10_met__median,activity,physiology,MET clock: high10_met; across days median
+activity__met_high10_met__iqr,activity,physiology,MET clock: high10_met; across days iqr
+activity__met_high10_met__p10,activity,physiology,MET clock: high10_met; across days p10
+activity__met_high10_met__p90,activity,physiology,MET clock: high10_met; across days p90
+activity__met_high10_met__missing_fraction,activity,quality,MET clock: high10_met; daily missing fraction
+activity__interval_minutes__median,activity,quality,activity__interval_minutes; across days median
+activity__interval_minutes__iqr,activity,quality,activity__interval_minutes; across days iqr
+activity__interval_minutes__p10,activity,quality,activity__interval_minutes; across days p10
+activity__interval_minutes__p90,activity,quality,activity__interval_minutes; across days p90
+activity__interval_minutes__missing_fraction,activity,quality,activity__interval_minutes; daily missing fraction
+activity__steps_per_wear_hour__median,activity,physiology,steps_per_wear_hour; across days median
+activity__steps_per_wear_hour__iqr,activity,physiology,steps_per_wear_hour; across days iqr
+activity__steps_per_wear_hour__p10,activity,physiology,steps_per_wear_hour; across days p10
+activity__steps_per_wear_hour__p90,activity,physiology,steps_per_wear_hour; across days p90
+activity__steps_per_wear_hour__missing_fraction,activity,quality,steps_per_wear_hour; daily missing fraction
+activity__moderate_high_fraction__median,activity,physiology,moderate_high_fraction; across days median
+activity__moderate_high_fraction__iqr,activity,physiology,moderate_high_fraction; across days iqr
+activity__moderate_high_fraction__p10,activity,physiology,moderate_high_fraction; across days p10
+activity__moderate_high_fraction__p90,activity,physiology,moderate_high_fraction; across days p90
+activity__moderate_high_fraction__missing_fraction,activity,quality,moderate_high_fraction; daily missing fraction
+activity__inactive_fraction__median,activity,physiology,inactive_fraction; across days median
+activity__inactive_fraction__iqr,activity,physiology,inactive_fraction; across days iqr
+activity__inactive_fraction__p10,activity,physiology,inactive_fraction; across days p10
+activity__inactive_fraction__p90,activity,physiology,inactive_fraction; across days p90
+activity__inactive_fraction__missing_fraction,activity,quality,inactive_fraction; daily missing fraction
+activity__quality_n_days,activity,quality,n_days
+activity__quality_span_days,activity,quality,span_days
+activity__quality_coverage,activity,quality,coverage
+activity__steps__day_rmssd,activity,physiology,activity__steps; day_rmssd
+activity__steps__trend_per_day,activity,physiology,activity__steps; trend_per_day
+activity__steps__consecutive_lag1,activity,physiology,activity__steps; consecutive_lag1
+activity__average_met__day_rmssd,activity,physiology,activity__average_met; day_rmssd
+activity__average_met__trend_per_day,activity,physiology,activity__average_met; trend_per_day
+activity__average_met__consecutive_lag1,activity,physiology,activity__average_met; consecutive_lag1
+activity__inactive__day_rmssd,activity,physiology,activity__inactive; day_rmssd
+activity__inactive__trend_per_day,activity,physiology,activity__inactive; trend_per_day
+activity__inactive__consecutive_lag1,activity,physiology,activity__inactive; consecutive_lag1
+activity__met_cosinor_amplitude__day_rmssd,activity,physiology,activity__met_cosinor_amplitude; day_rmssd
+activity__met_cosinor_amplitude__trend_per_day,activity,physiology,activity__met_cosinor_amplitude; trend_per_day
+activity__met_cosinor_amplitude__consecutive_lag1,activity,physiology,activity__met_cosinor_amplitude; consecutive_lag1
+activity__met_relative_high10_low5__day_rmssd,activity,physiology,activity__met_relative_high10_low5; day_rmssd
+activity__met_relative_high10_low5__trend_per_day,activity,physiology,activity__met_relative_high10_low5; trend_per_day
+activity__met_relative_high10_low5__consecutive_lag1,activity,physiology,activity__met_relative_high10_low5; consecutive_lag1
+activity__hourly_profile_stability,activity,physiology,분산 가중 시간대 반복성; 표준 actigraphy IS와 동일한 지표라고 주장하지 않음
+sleep__awake__median,sleep,physiology,sleep_awake; across days median
+sleep__awake__iqr,sleep,physiology,sleep_awake; across days iqr
+sleep__awake__p10,sleep,physiology,sleep_awake; across days p10
+sleep__awake__p90,sleep,physiology,sleep_awake; across days p90
+sleep__awake__missing_fraction,sleep,quality,sleep_awake; daily missing fraction
+sleep__breath_average__median,sleep,physiology,sleep_breath_average; across days median
+sleep__breath_average__iqr,sleep,physiology,sleep_breath_average; across days iqr
+sleep__breath_average__p10,sleep,physiology,sleep_breath_average; across days p10
+sleep__breath_average__p90,sleep,physiology,sleep_breath_average; across days p90
+sleep__breath_average__missing_fraction,sleep,quality,sleep_breath_average; daily missing fraction
+sleep__deep__median,sleep,physiology,sleep_deep; across days median
+sleep__deep__iqr,sleep,physiology,sleep_deep; across days iqr
+sleep__deep__p10,sleep,physiology,sleep_deep; across days p10
+sleep__deep__p90,sleep,physiology,sleep_deep; across days p90
+sleep__deep__missing_fraction,sleep,quality,sleep_deep; daily missing fraction
+sleep__duration__median,sleep,physiology,sleep_duration; across days median
+sleep__duration__iqr,sleep,physiology,sleep_duration; across days iqr
+sleep__duration__p10,sleep,physiology,sleep_duration; across days p10
+sleep__duration__p90,sleep,physiology,sleep_duration; across days p90
+sleep__duration__missing_fraction,sleep,quality,sleep_duration; daily missing fraction
+sleep__efficiency__median,sleep,physiology,sleep_efficiency; across days median
+sleep__efficiency__iqr,sleep,physiology,sleep_efficiency; across days iqr
+sleep__efficiency__p10,sleep,physiology,sleep_efficiency; across days p10
+sleep__efficiency__p90,sleep,physiology,sleep_efficiency; across days p90
+sleep__efficiency__missing_fraction,sleep,quality,sleep_efficiency; daily missing fraction
+sleep__hr_average__median,sleep,physiology,sleep_hr_average; across days median
+sleep__hr_average__iqr,sleep,physiology,sleep_hr_average; across days iqr
+sleep__hr_average__p10,sleep,physiology,sleep_hr_average; across days p10
+sleep__hr_average__p90,sleep,physiology,sleep_hr_average; across days p90
+sleep__hr_average__missing_fraction,sleep,quality,sleep_hr_average; daily missing fraction
+sleep__hr_lowest__median,sleep,physiology,sleep_hr_lowest; across days median
+sleep__hr_lowest__iqr,sleep,physiology,sleep_hr_lowest; across days iqr
+sleep__hr_lowest__p10,sleep,physiology,sleep_hr_lowest; across days p10
+sleep__hr_lowest__p90,sleep,physiology,sleep_hr_lowest; across days p90
+sleep__hr_lowest__missing_fraction,sleep,quality,sleep_hr_lowest; daily missing fraction
+sleep__light__median,sleep,physiology,sleep_light; across days median
+sleep__light__iqr,sleep,physiology,sleep_light; across days iqr
+sleep__light__p10,sleep,physiology,sleep_light; across days p10
+sleep__light__p90,sleep,physiology,sleep_light; across days p90
+sleep__light__missing_fraction,sleep,quality,sleep_light; daily missing fraction
+sleep__onset_latency__median,sleep,physiology,sleep_onset_latency; across days median
+sleep__onset_latency__iqr,sleep,physiology,sleep_onset_latency; across days iqr
+sleep__onset_latency__p10,sleep,physiology,sleep_onset_latency; across days p10
+sleep__onset_latency__p90,sleep,physiology,sleep_onset_latency; across days p90
+sleep__onset_latency__missing_fraction,sleep,quality,sleep_onset_latency; daily missing fraction
+sleep__rem__median,sleep,physiology,sleep_rem; across days median
+sleep__rem__iqr,sleep,physiology,sleep_rem; across days iqr
+sleep__rem__p10,sleep,physiology,sleep_rem; across days p10
+sleep__rem__p90,sleep,physiology,sleep_rem; across days p90
+sleep__rem__missing_fraction,sleep,quality,sleep_rem; daily missing fraction
+sleep__restless__median,sleep,physiology,sleep_restless; across days median
+sleep__restless__iqr,sleep,physiology,sleep_restless; across days iqr
+sleep__restless__p10,sleep,physiology,sleep_restless; across days p10
+sleep__restless__p90,sleep,physiology,sleep_restless; across days p90
+sleep__restless__missing_fraction,sleep,quality,sleep_restless; daily missing fraction
+sleep__rmssd__median,sleep,physiology,sleep_rmssd; across days median
+sleep__rmssd__iqr,sleep,physiology,sleep_rmssd; across days iqr
+sleep__rmssd__p10,sleep,physiology,sleep_rmssd; across days p10
+sleep__rmssd__p90,sleep,physiology,sleep_rmssd; across days p90
+sleep__rmssd__missing_fraction,sleep,quality,sleep_rmssd; daily missing fraction
+sleep__score__median,sleep,vendor,sleep_score; across days median
+sleep__score__iqr,sleep,vendor,sleep_score; across days iqr
+sleep__score__p10,sleep,vendor,sleep_score; across days p10
+sleep__score__p90,sleep,vendor,sleep_score; across days p90
+sleep__score__missing_fraction,sleep,quality,sleep_score; daily missing fraction
+sleep__score_alignment__median,sleep,vendor,sleep_score_alignment; across days median
+sleep__score_alignment__iqr,sleep,vendor,sleep_score_alignment; across days iqr
+sleep__score_alignment__p10,sleep,vendor,sleep_score_alignment; across days p10
+sleep__score_alignment__p90,sleep,vendor,sleep_score_alignment; across days p90
+sleep__score_alignment__missing_fraction,sleep,quality,sleep_score_alignment; daily missing fraction
+sleep__score_deep__median,sleep,vendor,sleep_score_deep; across days median
+sleep__score_deep__iqr,sleep,vendor,sleep_score_deep; across days iqr
+sleep__score_deep__p10,sleep,vendor,sleep_score_deep; across days p10
+sleep__score_deep__p90,sleep,vendor,sleep_score_deep; across days p90
+sleep__score_deep__missing_fraction,sleep,quality,sleep_score_deep; daily missing fraction
+sleep__score_disturbances__median,sleep,vendor,sleep_score_disturbances; across days median
+sleep__score_disturbances__iqr,sleep,vendor,sleep_score_disturbances; across days iqr
+sleep__score_disturbances__p10,sleep,vendor,sleep_score_disturbances; across days p10
+sleep__score_disturbances__p90,sleep,vendor,sleep_score_disturbances; across days p90
+sleep__score_disturbances__missing_fraction,sleep,quality,sleep_score_disturbances; daily missing fraction
+sleep__score_efficiency__median,sleep,vendor,sleep_score_efficiency; across days median
+sleep__score_efficiency__iqr,sleep,vendor,sleep_score_efficiency; across days iqr
+sleep__score_efficiency__p10,sleep,vendor,sleep_score_efficiency; across days p10
+sleep__score_efficiency__p90,sleep,vendor,sleep_score_efficiency; across days p90
+sleep__score_efficiency__missing_fraction,sleep,quality,sleep_score_efficiency; daily missing fraction
+sleep__score_latency__median,sleep,vendor,sleep_score_latency; across days median
+sleep__score_latency__iqr,sleep,vendor,sleep_score_latency; across days iqr
+sleep__score_latency__p10,sleep,vendor,sleep_score_latency; across days p10
+sleep__score_latency__p90,sleep,vendor,sleep_score_latency; across days p90
+sleep__score_latency__missing_fraction,sleep,quality,sleep_score_latency; daily missing fraction
+sleep__score_rem__median,sleep,vendor,sleep_score_rem; across days median
+sleep__score_rem__iqr,sleep,vendor,sleep_score_rem; across days iqr
+sleep__score_rem__p10,sleep,vendor,sleep_score_rem; across days p10
+sleep__score_rem__p90,sleep,vendor,sleep_score_rem; across days p90
+sleep__score_rem__missing_fraction,sleep,quality,sleep_score_rem; daily missing fraction
+sleep__score_total__median,sleep,vendor,sleep_score_total; across days median
+sleep__score_total__iqr,sleep,vendor,sleep_score_total; across days iqr
+sleep__score_total__p10,sleep,vendor,sleep_score_total; across days p10
+sleep__score_total__p90,sleep,vendor,sleep_score_total; across days p90
+sleep__score_total__missing_fraction,sleep,quality,sleep_score_total; daily missing fraction
+sleep__temperature_delta__median,sleep,physiology,sleep_temperature_delta; across days median
+sleep__temperature_delta__iqr,sleep,physiology,sleep_temperature_delta; across days iqr
+sleep__temperature_delta__p10,sleep,physiology,sleep_temperature_delta; across days p10
+sleep__temperature_delta__p90,sleep,physiology,sleep_temperature_delta; across days p90
+sleep__temperature_delta__missing_fraction,sleep,quality,sleep_temperature_delta; daily missing fraction
+sleep__temperature_deviation__median,sleep,physiology,sleep_temperature_deviation; across days median
+sleep__temperature_deviation__iqr,sleep,physiology,sleep_temperature_deviation; across days iqr
+sleep__temperature_deviation__p10,sleep,physiology,sleep_temperature_deviation; across days p10
+sleep__temperature_deviation__p90,sleep,physiology,sleep_temperature_deviation; across days p90
+sleep__temperature_deviation__missing_fraction,sleep,quality,sleep_temperature_deviation; daily missing fraction
+sleep__total__median,sleep,physiology,sleep_total; across days median
+sleep__total__iqr,sleep,physiology,sleep_total; across days iqr
+sleep__total__p10,sleep,physiology,sleep_total; across days p10
+sleep__total__p90,sleep,physiology,sleep_total; across days p90
+sleep__total__missing_fraction,sleep,quality,sleep_total; daily missing fraction
+sleep__hr_mean__median,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): mean; across days median
+sleep__hr_mean__iqr,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): mean; across days iqr
+sleep__hr_mean__p10,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): mean; across days p10
+sleep__hr_mean__p90,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): mean; across days p90
+sleep__hr_mean__missing_fraction,sleep,quality,CONVERT(sleep_hr_5min USING utf8): mean; daily missing fraction
+sleep__hr_std__median,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): std; across days median
+sleep__hr_std__iqr,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): std; across days iqr
+sleep__hr_std__p10,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): std; across days p10
+sleep__hr_std__p90,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): std; across days p90
+sleep__hr_std__missing_fraction,sleep,quality,CONVERT(sleep_hr_5min USING utf8): std; daily missing fraction
+sleep__hr_p10__median,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): p10; across days median
+sleep__hr_p10__iqr,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): p10; across days iqr
+sleep__hr_p10__p10,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): p10; across days p10
+sleep__hr_p10__p90,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): p10; across days p90
+sleep__hr_p10__missing_fraction,sleep,quality,CONVERT(sleep_hr_5min USING utf8): p10; daily missing fraction
+sleep__hr_p90__median,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): p90; across days median
+sleep__hr_p90__iqr,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): p90; across days iqr
+sleep__hr_p90__p10,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): p90; across days p10
+sleep__hr_p90__p90,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): p90; across days p90
+sleep__hr_p90__missing_fraction,sleep,quality,CONVERT(sleep_hr_5min USING utf8): p90; daily missing fraction
+sleep__hr_rmssd_adjacent__median,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): rmssd_adjacent; across days median
+sleep__hr_rmssd_adjacent__iqr,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): rmssd_adjacent; across days iqr
+sleep__hr_rmssd_adjacent__p10,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): rmssd_adjacent; across days p10
+sleep__hr_rmssd_adjacent__p90,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): rmssd_adjacent; across days p90
+sleep__hr_rmssd_adjacent__missing_fraction,sleep,quality,CONVERT(sleep_hr_5min USING utf8): rmssd_adjacent; daily missing fraction
+sleep__hr_lag1__median,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): lag1; across days median
+sleep__hr_lag1__iqr,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): lag1; across days iqr
+sleep__hr_lag1__p10,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): lag1; across days p10
+sleep__hr_lag1__p90,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): lag1; across days p90
+sleep__hr_lag1__missing_fraction,sleep,quality,CONVERT(sleep_hr_5min USING utf8): lag1; daily missing fraction
+sleep__hr_last_first_third__median,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): last_first_third; across days median
+sleep__hr_last_first_third__iqr,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): last_first_third; across days iqr
+sleep__hr_last_first_third__p10,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): last_first_third; across days p10
+sleep__hr_last_first_third__p90,sleep,physiology,CONVERT(sleep_hr_5min USING utf8): last_first_third; across days p90
+sleep__hr_last_first_third__missing_fraction,sleep,quality,CONVERT(sleep_hr_5min USING utf8): last_first_third; daily missing fraction
+sleep__hr_valid_fraction__median,sleep,quality,CONVERT(sleep_hr_5min USING utf8): valid_fraction; across days median
+sleep__hr_valid_fraction__iqr,sleep,quality,CONVERT(sleep_hr_5min USING utf8): valid_fraction; across days iqr
+sleep__hr_valid_fraction__p10,sleep,quality,CONVERT(sleep_hr_5min USING utf8): valid_fraction; across days p10
+sleep__hr_valid_fraction__p90,sleep,quality,CONVERT(sleep_hr_5min USING utf8): valid_fraction; across days p90
+sleep__hr_valid_fraction__missing_fraction,sleep,quality,CONVERT(sleep_hr_5min USING utf8): valid_fraction; daily missing fraction
+sleep__hr_length__median,sleep,quality,CONVERT(sleep_hr_5min USING utf8): length; across days median
+sleep__hr_length__iqr,sleep,quality,CONVERT(sleep_hr_5min USING utf8): length; across days iqr
+sleep__hr_length__p10,sleep,quality,CONVERT(sleep_hr_5min USING utf8): length; across days p10
+sleep__hr_length__p90,sleep,quality,CONVERT(sleep_hr_5min USING utf8): length; across days p90
+sleep__hr_length__missing_fraction,sleep,quality,CONVERT(sleep_hr_5min USING utf8): length; daily missing fraction
+sleep__state_code_1_fraction__median,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_1_fraction; across days median
+sleep__state_code_1_fraction__iqr,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_1_fraction; across days iqr
+sleep__state_code_1_fraction__p10,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_1_fraction; across days p10
+sleep__state_code_1_fraction__p90,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_1_fraction; across days p90
+sleep__state_code_1_fraction__missing_fraction,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): code_1_fraction; daily missing fraction
+sleep__state_code_1_longest_minutes__median,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_1_longest_minutes; across days median
+sleep__state_code_1_longest_minutes__iqr,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_1_longest_minutes; across days iqr
+sleep__state_code_1_longest_minutes__p10,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_1_longest_minutes; across days p10
+sleep__state_code_1_longest_minutes__p90,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_1_longest_minutes; across days p90
+sleep__state_code_1_longest_minutes__missing_fraction,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): code_1_longest_minutes; daily missing fraction
+sleep__state_code_2_fraction__median,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_2_fraction; across days median
+sleep__state_code_2_fraction__iqr,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_2_fraction; across days iqr
+sleep__state_code_2_fraction__p10,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_2_fraction; across days p10
+sleep__state_code_2_fraction__p90,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_2_fraction; across days p90
+sleep__state_code_2_fraction__missing_fraction,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): code_2_fraction; daily missing fraction
+sleep__state_code_2_longest_minutes__median,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_2_longest_minutes; across days median
+sleep__state_code_2_longest_minutes__iqr,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_2_longest_minutes; across days iqr
+sleep__state_code_2_longest_minutes__p10,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_2_longest_minutes; across days p10
+sleep__state_code_2_longest_minutes__p90,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_2_longest_minutes; across days p90
+sleep__state_code_2_longest_minutes__missing_fraction,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): code_2_longest_minutes; daily missing fraction
+sleep__state_code_3_fraction__median,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_3_fraction; across days median
+sleep__state_code_3_fraction__iqr,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_3_fraction; across days iqr
+sleep__state_code_3_fraction__p10,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_3_fraction; across days p10
+sleep__state_code_3_fraction__p90,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_3_fraction; across days p90
+sleep__state_code_3_fraction__missing_fraction,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): code_3_fraction; daily missing fraction
+sleep__state_code_3_longest_minutes__median,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_3_longest_minutes; across days median
+sleep__state_code_3_longest_minutes__iqr,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_3_longest_minutes; across days iqr
+sleep__state_code_3_longest_minutes__p10,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_3_longest_minutes; across days p10
+sleep__state_code_3_longest_minutes__p90,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_3_longest_minutes; across days p90
+sleep__state_code_3_longest_minutes__missing_fraction,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): code_3_longest_minutes; daily missing fraction
+sleep__state_code_4_fraction__median,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_4_fraction; across days median
+sleep__state_code_4_fraction__iqr,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_4_fraction; across days iqr
+sleep__state_code_4_fraction__p10,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_4_fraction; across days p10
+sleep__state_code_4_fraction__p90,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_4_fraction; across days p90
+sleep__state_code_4_fraction__missing_fraction,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): code_4_fraction; daily missing fraction
+sleep__state_code_4_longest_minutes__median,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_4_longest_minutes; across days median
+sleep__state_code_4_longest_minutes__iqr,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_4_longest_minutes; across days iqr
+sleep__state_code_4_longest_minutes__p10,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_4_longest_minutes; across days p10
+sleep__state_code_4_longest_minutes__p90,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): code_4_longest_minutes; across days p90
+sleep__state_code_4_longest_minutes__missing_fraction,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): code_4_longest_minutes; daily missing fraction
+sleep__state_entropy__median,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): entropy; across days median
+sleep__state_entropy__iqr,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): entropy; across days iqr
+sleep__state_entropy__p10,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): entropy; across days p10
+sleep__state_entropy__p90,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): entropy; across days p90
+sleep__state_entropy__missing_fraction,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): entropy; daily missing fraction
+sleep__state_transition_rate__median,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): transition_rate; across days median
+sleep__state_transition_rate__iqr,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): transition_rate; across days iqr
+sleep__state_transition_rate__p10,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): transition_rate; across days p10
+sleep__state_transition_rate__p90,sleep,physiology,CONVERT(sleep_hypnogram_5min USING utf8): transition_rate; across days p90
+sleep__state_transition_rate__missing_fraction,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): transition_rate; daily missing fraction
+sleep__state_valid_fraction__median,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): valid_fraction; across days median
+sleep__state_valid_fraction__iqr,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): valid_fraction; across days iqr
+sleep__state_valid_fraction__p10,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): valid_fraction; across days p10
+sleep__state_valid_fraction__p90,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): valid_fraction; across days p90
+sleep__state_valid_fraction__missing_fraction,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): valid_fraction; daily missing fraction
+sleep__state_length__median,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): length; across days median
+sleep__state_length__iqr,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): length; across days iqr
+sleep__state_length__p10,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): length; across days p10
+sleep__state_length__p90,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): length; across days p90
+sleep__state_length__missing_fraction,sleep,quality,CONVERT(sleep_hypnogram_5min USING utf8): length; daily missing fraction
+sleep__hrv_mean__median,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): mean; across days median
+sleep__hrv_mean__iqr,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): mean; across days iqr
+sleep__hrv_mean__p10,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): mean; across days p10
+sleep__hrv_mean__p90,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): mean; across days p90
+sleep__hrv_mean__missing_fraction,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): mean; daily missing fraction
+sleep__hrv_std__median,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): std; across days median
+sleep__hrv_std__iqr,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): std; across days iqr
+sleep__hrv_std__p10,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): std; across days p10
+sleep__hrv_std__p90,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): std; across days p90
+sleep__hrv_std__missing_fraction,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): std; daily missing fraction
+sleep__hrv_p10__median,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): p10; across days median
+sleep__hrv_p10__iqr,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): p10; across days iqr
+sleep__hrv_p10__p10,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): p10; across days p10
+sleep__hrv_p10__p90,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): p10; across days p90
+sleep__hrv_p10__missing_fraction,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): p10; daily missing fraction
+sleep__hrv_p90__median,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): p90; across days median
+sleep__hrv_p90__iqr,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): p90; across days iqr
+sleep__hrv_p90__p10,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): p90; across days p10
+sleep__hrv_p90__p90,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): p90; across days p90
+sleep__hrv_p90__missing_fraction,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): p90; daily missing fraction
+sleep__hrv_rmssd_adjacent__median,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): rmssd_adjacent; across days median
+sleep__hrv_rmssd_adjacent__iqr,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): rmssd_adjacent; across days iqr
+sleep__hrv_rmssd_adjacent__p10,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): rmssd_adjacent; across days p10
+sleep__hrv_rmssd_adjacent__p90,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): rmssd_adjacent; across days p90
+sleep__hrv_rmssd_adjacent__missing_fraction,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): rmssd_adjacent; daily missing fraction
+sleep__hrv_lag1__median,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): lag1; across days median
+sleep__hrv_lag1__iqr,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): lag1; across days iqr
+sleep__hrv_lag1__p10,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): lag1; across days p10
+sleep__hrv_lag1__p90,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): lag1; across days p90
+sleep__hrv_lag1__missing_fraction,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): lag1; daily missing fraction
+sleep__hrv_last_first_third__median,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): last_first_third; across days median
+sleep__hrv_last_first_third__iqr,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): last_first_third; across days iqr
+sleep__hrv_last_first_third__p10,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): last_first_third; across days p10
+sleep__hrv_last_first_third__p90,sleep,physiology,CONVERT(sleep_rmssd_5min USING utf8): last_first_third; across days p90
+sleep__hrv_last_first_third__missing_fraction,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): last_first_third; daily missing fraction
+sleep__hrv_valid_fraction__median,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): valid_fraction; across days median
+sleep__hrv_valid_fraction__iqr,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): valid_fraction; across days iqr
+sleep__hrv_valid_fraction__p10,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): valid_fraction; across days p10
+sleep__hrv_valid_fraction__p90,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): valid_fraction; across days p90
+sleep__hrv_valid_fraction__missing_fraction,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): valid_fraction; daily missing fraction
+sleep__hrv_length__median,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): length; across days median
+sleep__hrv_length__iqr,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): length; across days iqr
+sleep__hrv_length__p10,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): length; across days p10
+sleep__hrv_length__p90,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): length; across days p90
+sleep__hrv_length__missing_fraction,sleep,quality,CONVERT(sleep_rmssd_5min USING utf8): length; daily missing fraction
+sleep__deep_fraction__median,sleep,physiology,deep_fraction; across days median
+sleep__deep_fraction__iqr,sleep,physiology,deep_fraction; across days iqr
+sleep__deep_fraction__p10,sleep,physiology,deep_fraction; across days p10
+sleep__deep_fraction__p90,sleep,physiology,deep_fraction; across days p90
+sleep__deep_fraction__missing_fraction,sleep,quality,deep_fraction; daily missing fraction
+sleep__light_fraction__median,sleep,physiology,light_fraction; across days median
+sleep__light_fraction__iqr,sleep,physiology,light_fraction; across days iqr
+sleep__light_fraction__p10,sleep,physiology,light_fraction; across days p10
+sleep__light_fraction__p90,sleep,physiology,light_fraction; across days p90
+sleep__light_fraction__missing_fraction,sleep,quality,light_fraction; daily missing fraction
+sleep__rem_fraction__median,sleep,physiology,rem_fraction; across days median
+sleep__rem_fraction__iqr,sleep,physiology,rem_fraction; across days iqr
+sleep__rem_fraction__p10,sleep,physiology,rem_fraction; across days p10
+sleep__rem_fraction__p90,sleep,physiology,rem_fraction; across days p90
+sleep__rem_fraction__missing_fraction,sleep,quality,rem_fraction; daily missing fraction
+sleep__awake_fraction__median,sleep,physiology,awake_fraction; across days median
+sleep__awake_fraction__iqr,sleep,physiology,awake_fraction; across days iqr
+sleep__awake_fraction__p10,sleep,physiology,awake_fraction; across days p10
+sleep__awake_fraction__p90,sleep,physiology,awake_fraction; across days p90
+sleep__awake_fraction__missing_fraction,sleep,quality,awake_fraction; daily missing fraction
+sleep__latency_fraction__median,sleep,physiology,latency_fraction; across days median
+sleep__latency_fraction__iqr,sleep,physiology,latency_fraction; across days iqr
+sleep__latency_fraction__p10,sleep,physiology,latency_fraction; across days p10
+sleep__latency_fraction__p90,sleep,physiology,latency_fraction; across days p90
+sleep__latency_fraction__missing_fraction,sleep,quality,latency_fraction; daily missing fraction
+sleep__bedtime_sin__median,sleep,physiology,bedtime_sin; across days median
+sleep__bedtime_sin__iqr,sleep,physiology,bedtime_sin; across days iqr
+sleep__bedtime_sin__p10,sleep,physiology,bedtime_sin; across days p10
+sleep__bedtime_sin__p90,sleep,physiology,bedtime_sin; across days p90
+sleep__bedtime_sin__missing_fraction,sleep,quality,bedtime_sin; daily missing fraction
+sleep__bedtime_cos__median,sleep,physiology,bedtime_cos; across days median
+sleep__bedtime_cos__iqr,sleep,physiology,bedtime_cos; across days iqr
+sleep__bedtime_cos__p10,sleep,physiology,bedtime_cos; across days p10
+sleep__bedtime_cos__p90,sleep,physiology,bedtime_cos; across days p90
+sleep__bedtime_cos__missing_fraction,sleep,quality,bedtime_cos; daily missing fraction
+sleep__wake_sin__median,sleep,physiology,wake_sin; across days median
+sleep__wake_sin__iqr,sleep,physiology,wake_sin; across days iqr
+sleep__wake_sin__p10,sleep,physiology,wake_sin; across days p10
+sleep__wake_sin__p90,sleep,physiology,wake_sin; across days p90
+sleep__wake_sin__missing_fraction,sleep,quality,wake_sin; daily missing fraction
+sleep__wake_cos__median,sleep,physiology,wake_cos; across days median
+sleep__wake_cos__iqr,sleep,physiology,wake_cos; across days iqr
+sleep__wake_cos__p10,sleep,physiology,wake_cos; across days p10
+sleep__wake_cos__p90,sleep,physiology,wake_cos; across days p90
+sleep__wake_cos__missing_fraction,sleep,quality,wake_cos; daily missing fraction
+sleep__quality_n_days,sleep,quality,n_days
+sleep__quality_span_days,sleep,quality,span_days
+sleep__quality_coverage,sleep,quality,coverage
+sleep__total__day_rmssd,sleep,physiology,sleep__total; day_rmssd
+sleep__total__trend_per_day,sleep,physiology,sleep__total; trend_per_day
+sleep__total__consecutive_lag1,sleep,physiology,sleep__total; consecutive_lag1
+sleep__efficiency__day_rmssd,sleep,physiology,sleep__efficiency; day_rmssd
+sleep__efficiency__trend_per_day,sleep,physiology,sleep__efficiency; trend_per_day
+sleep__efficiency__consecutive_lag1,sleep,physiology,sleep__efficiency; consecutive_lag1
+sleep__hr_average__day_rmssd,sleep,physiology,sleep__hr_average; day_rmssd
+sleep__hr_average__trend_per_day,sleep,physiology,sleep__hr_average; trend_per_day
+sleep__hr_average__consecutive_lag1,sleep,physiology,sleep__hr_average; consecutive_lag1
+sleep__rmssd__day_rmssd,sleep,physiology,sleep__rmssd; day_rmssd
+sleep__rmssd__trend_per_day,sleep,physiology,sleep__rmssd; trend_per_day
+sleep__rmssd__consecutive_lag1,sleep,physiology,sleep__rmssd; consecutive_lag1
+sleep__awake_fraction__day_rmssd,sleep,physiology,sleep__awake_fraction; day_rmssd
+sleep__awake_fraction__trend_per_day,sleep,physiology,sleep__awake_fraction; trend_per_day
+sleep__awake_fraction__consecutive_lag1,sleep,physiology,sleep__awake_fraction; consecutive_lag1
+sleep__deep_fraction__day_rmssd,sleep,physiology,sleep__deep_fraction; day_rmssd
+sleep__deep_fraction__trend_per_day,sleep,physiology,sleep__deep_fraction; trend_per_day
+sleep__deep_fraction__consecutive_lag1,sleep,physiology,sleep__deep_fraction; consecutive_lag1
+sleep__rem_fraction__day_rmssd,sleep,physiology,sleep__rem_fraction; day_rmssd
+sleep__rem_fraction__trend_per_day,sleep,physiology,sleep__rem_fraction; trend_per_day
+sleep__rem_fraction__consecutive_lag1,sleep,physiology,sleep__rem_fraction; consecutive_lag1
+sleep__bedtime_regularity,sleep,physiology,시각 원형 resultant length: 1에 가까울수록 규칙적
+sleep__wake_regularity,sleep,physiology,시각 원형 resultant length: 1에 가까울수록 규칙적
+coupling__same_wake_day_n_pairs,coupling,quality,same_wake_day paired days
+coupling__same_wake_day__steps__total_corr,coupling,physiology,"activity__steps vs sleep__total; same_wake_day; Pearson r, min 7 paired days"
+coupling__same_wake_day__steps__efficiency_corr,coupling,physiology,"activity__steps vs sleep__efficiency; same_wake_day; Pearson r, min 7 paired days"
+coupling__same_wake_day__average_met__rmssd_corr,coupling,physiology,"activity__average_met vs sleep__rmssd; same_wake_day; Pearson r, min 7 paired days"
+coupling__same_wake_day__inactive__awake_fraction_corr,coupling,physiology,"activity__inactive vs sleep__awake_fraction; same_wake_day; Pearson r, min 7 paired days"
+coupling__next_wake_day_n_pairs,coupling,quality,next_wake_day paired days
+coupling__next_wake_day__steps__total_corr,coupling,physiology,"activity__steps vs sleep__total; next_wake_day; Pearson r, min 7 paired days"
+coupling__next_wake_day__steps__efficiency_corr,coupling,physiology,"activity__steps vs sleep__efficiency; next_wake_day; Pearson r, min 7 paired days"
+coupling__next_wake_day__average_met__rmssd_corr,coupling,physiology,"activity__average_met vs sleep__rmssd; next_wake_day; Pearson r, min 7 paired days"
+coupling__next_wake_day__inactive__awake_fraction_corr,coupling,physiology,"activity__inactive vs sleep__awake_fraction; next_wake_day; Pearson r, min 7 paired days"
+activity__average_met__extra_mean,activity,physiology,activity__average_met: within-person mean
+activity__average_met__extra_std,activity,physiology,activity__average_met: within-person std
+activity__average_met__extra_mad,activity,physiology,activity__average_met: within-person mad
+activity__average_met__extra_cv,activity,physiology,activity__average_met: within-person cv
+activity__average_met__extra_weekend_delta,activity,physiology,activity__average_met: within-person weekend_delta
+activity__cal_active__extra_mean,activity,physiology,activity__cal_active: within-person mean
+activity__cal_active__extra_std,activity,physiology,activity__cal_active: within-person std
+activity__cal_active__extra_mad,activity,physiology,activity__cal_active: within-person mad
+activity__cal_active__extra_cv,activity,physiology,activity__cal_active: within-person cv
+activity__cal_active__extra_weekend_delta,activity,physiology,activity__cal_active: within-person weekend_delta
+activity__cal_total__extra_mean,activity,physiology,activity__cal_total: within-person mean
+activity__cal_total__extra_std,activity,physiology,activity__cal_total: within-person std
+activity__cal_total__extra_mad,activity,physiology,activity__cal_total: within-person mad
+activity__cal_total__extra_cv,activity,physiology,activity__cal_total: within-person cv
+activity__cal_total__extra_weekend_delta,activity,physiology,activity__cal_total: within-person weekend_delta
+activity__daily_movement__extra_mean,activity,physiology,activity__daily_movement: within-person mean
+activity__daily_movement__extra_std,activity,physiology,activity__daily_movement: within-person std
+activity__daily_movement__extra_mad,activity,physiology,activity__daily_movement: within-person mad
+activity__daily_movement__extra_cv,activity,physiology,activity__daily_movement: within-person cv
+activity__daily_movement__extra_weekend_delta,activity,physiology,activity__daily_movement: within-person weekend_delta
+activity__high__extra_mean,activity,physiology,activity__high: within-person mean
+activity__high__extra_std,activity,physiology,activity__high: within-person std
+activity__high__extra_mad,activity,physiology,activity__high: within-person mad
+activity__high__extra_cv,activity,physiology,activity__high: within-person cv
+activity__high__extra_weekend_delta,activity,physiology,activity__high: within-person weekend_delta
+activity__inactive__extra_mean,activity,physiology,activity__inactive: within-person mean
+activity__inactive__extra_std,activity,physiology,activity__inactive: within-person std
+activity__inactive__extra_mad,activity,physiology,activity__inactive: within-person mad
+activity__inactive__extra_cv,activity,physiology,activity__inactive: within-person cv
+activity__inactive__extra_weekend_delta,activity,physiology,activity__inactive: within-person weekend_delta
+activity__inactivity_alerts__extra_mean,activity,physiology,activity__inactivity_alerts: within-person mean
+activity__inactivity_alerts__extra_std,activity,physiology,activity__inactivity_alerts: within-person std
+activity__inactivity_alerts__extra_mad,activity,physiology,activity__inactivity_alerts: within-person mad
+activity__inactivity_alerts__extra_cv,activity,physiology,activity__inactivity_alerts: within-person cv
+activity__inactivity_alerts__extra_weekend_delta,activity,physiology,activity__inactivity_alerts: within-person weekend_delta
+activity__low__extra_mean,activity,physiology,activity__low: within-person mean
+activity__low__extra_std,activity,physiology,activity__low: within-person std
+activity__low__extra_mad,activity,physiology,activity__low: within-person mad
+activity__low__extra_cv,activity,physiology,activity__low: within-person cv
+activity__low__extra_weekend_delta,activity,physiology,activity__low: within-person weekend_delta
+activity__medium__extra_mean,activity,physiology,activity__medium: within-person mean
+activity__medium__extra_std,activity,physiology,activity__medium: within-person std
+activity__medium__extra_mad,activity,physiology,activity__medium: within-person mad
+activity__medium__extra_cv,activity,physiology,activity__medium: within-person cv
+activity__medium__extra_weekend_delta,activity,physiology,activity__medium: within-person weekend_delta
+activity__met_min_high__extra_mean,activity,physiology,activity__met_min_high: within-person mean
+activity__met_min_high__extra_std,activity,physiology,activity__met_min_high: within-person std
+activity__met_min_high__extra_mad,activity,physiology,activity__met_min_high: within-person mad
+activity__met_min_high__extra_cv,activity,physiology,activity__met_min_high: within-person cv
+activity__met_min_high__extra_weekend_delta,activity,physiology,activity__met_min_high: within-person weekend_delta
+activity__met_min_inactive__extra_mean,activity,physiology,activity__met_min_inactive: within-person mean
+activity__met_min_inactive__extra_std,activity,physiology,activity__met_min_inactive: within-person std
+activity__met_min_inactive__extra_mad,activity,physiology,activity__met_min_inactive: within-person mad
+activity__met_min_inactive__extra_cv,activity,physiology,activity__met_min_inactive: within-person cv
+activity__met_min_inactive__extra_weekend_delta,activity,physiology,activity__met_min_inactive: within-person weekend_delta
+activity__met_min_low__extra_mean,activity,physiology,activity__met_min_low: within-person mean
+activity__met_min_low__extra_std,activity,physiology,activity__met_min_low: within-person std
+activity__met_min_low__extra_mad,activity,physiology,activity__met_min_low: within-person mad
+activity__met_min_low__extra_cv,activity,physiology,activity__met_min_low: within-person cv
+activity__met_min_low__extra_weekend_delta,activity,physiology,activity__met_min_low: within-person weekend_delta
+activity__met_min_medium__extra_mean,activity,physiology,activity__met_min_medium: within-person mean
+activity__met_min_medium__extra_std,activity,physiology,activity__met_min_medium: within-person std
+activity__met_min_medium__extra_mad,activity,physiology,activity__met_min_medium: within-person mad
+activity__met_min_medium__extra_cv,activity,physiology,activity__met_min_medium: within-person cv
+activity__met_min_medium__extra_weekend_delta,activity,physiology,activity__met_min_medium: within-person weekend_delta
+activity__non_wear__extra_mean,activity,quality,activity__non_wear: within-person mean
+activity__non_wear__extra_std,activity,quality,activity__non_wear: within-person std
+activity__non_wear__extra_mad,activity,quality,activity__non_wear: within-person mad
+activity__non_wear__extra_cv,activity,quality,activity__non_wear: within-person cv
+activity__non_wear__extra_weekend_delta,activity,quality,activity__non_wear: within-person weekend_delta
+activity__rest__extra_mean,activity,physiology,activity__rest: within-person mean
+activity__rest__extra_std,activity,physiology,activity__rest: within-person std
+activity__rest__extra_mad,activity,physiology,activity__rest: within-person mad
+activity__rest__extra_cv,activity,physiology,activity__rest: within-person cv
+activity__rest__extra_weekend_delta,activity,physiology,activity__rest: within-person weekend_delta
+activity__score__extra_mean,activity,vendor,activity__score: within-person mean
+activity__score__extra_std,activity,vendor,activity__score: within-person std
+activity__score__extra_mad,activity,vendor,activity__score: within-person mad
+activity__score__extra_cv,activity,vendor,activity__score: within-person cv
+activity__score__extra_weekend_delta,activity,vendor,activity__score: within-person weekend_delta
+activity__score_meet_daily_targets__extra_mean,activity,vendor,activity__score_meet_daily_targets: within-person mean
+activity__score_meet_daily_targets__extra_std,activity,vendor,activity__score_meet_daily_targets: within-person std
+activity__score_meet_daily_targets__extra_mad,activity,vendor,activity__score_meet_daily_targets: within-person mad
+activity__score_meet_daily_targets__extra_cv,activity,vendor,activity__score_meet_daily_targets: within-person cv
+activity__score_meet_daily_targets__extra_weekend_delta,activity,vendor,activity__score_meet_daily_targets: within-person weekend_delta
+activity__score_move_every_hour__extra_mean,activity,vendor,activity__score_move_every_hour: within-person mean
+activity__score_move_every_hour__extra_std,activity,vendor,activity__score_move_every_hour: within-person std
+activity__score_move_every_hour__extra_mad,activity,vendor,activity__score_move_every_hour: within-person mad
+activity__score_move_every_hour__extra_cv,activity,vendor,activity__score_move_every_hour: within-person cv
+activity__score_move_every_hour__extra_weekend_delta,activity,vendor,activity__score_move_every_hour: within-person weekend_delta
+activity__score_recovery_time__extra_mean,activity,vendor,activity__score_recovery_time: within-person mean
+activity__score_recovery_time__extra_std,activity,vendor,activity__score_recovery_time: within-person std
+activity__score_recovery_time__extra_mad,activity,vendor,activity__score_recovery_time: within-person mad
+activity__score_recovery_time__extra_cv,activity,vendor,activity__score_recovery_time: within-person cv
+activity__score_recovery_time__extra_weekend_delta,activity,vendor,activity__score_recovery_time: within-person weekend_delta
+activity__score_stay_active__extra_mean,activity,vendor,activity__score_stay_active: within-person mean
+activity__score_stay_active__extra_std,activity,vendor,activity__score_stay_active: within-person std
+activity__score_stay_active__extra_mad,activity,vendor,activity__score_stay_active: within-person mad
+activity__score_stay_active__extra_cv,activity,vendor,activity__score_stay_active: within-person cv
+activity__score_stay_active__extra_weekend_delta,activity,vendor,activity__score_stay_active: within-person weekend_delta
+activity__score_training_frequency__extra_mean,activity,vendor,activity__score_training_frequency: within-person mean
+activity__score_training_frequency__extra_std,activity,vendor,activity__score_training_frequency: within-person std
+activity__score_training_frequency__extra_mad,activity,vendor,activity__score_training_frequency: within-person mad
+activity__score_training_frequency__extra_cv,activity,vendor,activity__score_training_frequency: within-person cv
+activity__score_training_frequency__extra_weekend_delta,activity,vendor,activity__score_training_frequency: within-person weekend_delta
+activity__score_training_volume__extra_mean,activity,vendor,activity__score_training_volume: within-person mean
+activity__score_training_volume__extra_std,activity,vendor,activity__score_training_volume: within-person std
+activity__score_training_volume__extra_mad,activity,vendor,activity__score_training_volume: within-person mad
+activity__score_training_volume__extra_cv,activity,vendor,activity__score_training_volume: within-person cv
+activity__score_training_volume__extra_weekend_delta,activity,vendor,activity__score_training_volume: within-person weekend_delta
+activity__steps__extra_mean,activity,physiology,activity__steps: within-person mean
+activity__steps__extra_std,activity,physiology,activity__steps: within-person std
+activity__steps__extra_mad,activity,physiology,activity__steps: within-person mad
+activity__steps__extra_cv,activity,physiology,activity__steps: within-person cv
+activity__steps__extra_weekend_delta,activity,physiology,activity__steps: within-person weekend_delta
+activity__total__extra_mean,activity,physiology,activity__total: within-person mean
+activity__total__extra_std,activity,physiology,activity__total: within-person std
+activity__total__extra_mad,activity,physiology,activity__total: within-person mad
+activity__total__extra_cv,activity,physiology,activity__total: within-person cv
+activity__total__extra_weekend_delta,activity,physiology,activity__total: within-person weekend_delta
+activity__state_code_0_fraction__extra_mean,activity,physiology,activity__state_code_0_fraction: within-person mean
+activity__state_code_0_fraction__extra_std,activity,physiology,activity__state_code_0_fraction: within-person std
+activity__state_code_0_fraction__extra_mad,activity,physiology,activity__state_code_0_fraction: within-person mad
+activity__state_code_0_fraction__extra_cv,activity,physiology,activity__state_code_0_fraction: within-person cv
+activity__state_code_0_fraction__extra_weekend_delta,activity,physiology,activity__state_code_0_fraction: within-person weekend_delta
+activity__state_code_0_longest_minutes__extra_mean,activity,physiology,activity__state_code_0_longest_minutes: within-person mean
+activity__state_code_0_longest_minutes__extra_std,activity,physiology,activity__state_code_0_longest_minutes: within-person std
+activity__state_code_0_longest_minutes__extra_mad,activity,physiology,activity__state_code_0_longest_minutes: within-person mad
+activity__state_code_0_longest_minutes__extra_cv,activity,physiology,activity__state_code_0_longest_minutes: within-person cv
+activity__state_code_0_longest_minutes__extra_weekend_delta,activity,physiology,activity__state_code_0_longest_minutes: within-person weekend_delta
+activity__state_code_1_fraction__extra_mean,activity,physiology,activity__state_code_1_fraction: within-person mean
+activity__state_code_1_fraction__extra_std,activity,physiology,activity__state_code_1_fraction: within-person std
+activity__state_code_1_fraction__extra_mad,activity,physiology,activity__state_code_1_fraction: within-person mad
+activity__state_code_1_fraction__extra_cv,activity,physiology,activity__state_code_1_fraction: within-person cv
+activity__state_code_1_fraction__extra_weekend_delta,activity,physiology,activity__state_code_1_fraction: within-person weekend_delta
+activity__state_code_1_longest_minutes__extra_mean,activity,physiology,activity__state_code_1_longest_minutes: within-person mean
+activity__state_code_1_longest_minutes__extra_std,activity,physiology,activity__state_code_1_longest_minutes: within-person std
+activity__state_code_1_longest_minutes__extra_mad,activity,physiology,activity__state_code_1_longest_minutes: within-person mad
+activity__state_code_1_longest_minutes__extra_cv,activity,physiology,activity__state_code_1_longest_minutes: within-person cv
+activity__state_code_1_longest_minutes__extra_weekend_delta,activity,physiology,activity__state_code_1_longest_minutes: within-person weekend_delta
+activity__state_code_2_fraction__extra_mean,activity,physiology,activity__state_code_2_fraction: within-person mean
+activity__state_code_2_fraction__extra_std,activity,physiology,activity__state_code_2_fraction: within-person std
+activity__state_code_2_fraction__extra_mad,activity,physiology,activity__state_code_2_fraction: within-person mad
+activity__state_code_2_fraction__extra_cv,activity,physiology,activity__state_code_2_fraction: within-person cv
+activity__state_code_2_fraction__extra_weekend_delta,activity,physiology,activity__state_code_2_fraction: within-person weekend_delta
+activity__state_code_2_longest_minutes__extra_mean,activity,physiology,activity__state_code_2_longest_minutes: within-person mean
+activity__state_code_2_longest_minutes__extra_std,activity,physiology,activity__state_code_2_longest_minutes: within-person std
+activity__state_code_2_longest_minutes__extra_mad,activity,physiology,activity__state_code_2_longest_minutes: within-person mad
+activity__state_code_2_longest_minutes__extra_cv,activity,physiology,activity__state_code_2_longest_minutes: within-person cv
+activity__state_code_2_longest_minutes__extra_weekend_delta,activity,physiology,activity__state_code_2_longest_minutes: within-person weekend_delta
+activity__state_code_3_fraction__extra_mean,activity,physiology,activity__state_code_3_fraction: within-person mean
+activity__state_code_3_fraction__extra_std,activity,physiology,activity__state_code_3_fraction: within-person std
+activity__state_code_3_fraction__extra_mad,activity,physiology,activity__state_code_3_fraction: within-person mad
+activity__state_code_3_fraction__extra_cv,activity,physiology,activity__state_code_3_fraction: within-person cv
+activity__state_code_3_fraction__extra_weekend_delta,activity,physiology,activity__state_code_3_fraction: within-person weekend_delta
+activity__state_code_3_longest_minutes__extra_mean,activity,physiology,activity__state_code_3_longest_minutes: within-person mean
+activity__state_code_3_longest_minutes__extra_std,activity,physiology,activity__state_code_3_longest_minutes: within-person std
+activity__state_code_3_longest_minutes__extra_mad,activity,physiology,activity__state_code_3_longest_minutes: within-person mad
+activity__state_code_3_longest_minutes__extra_cv,activity,physiology,activity__state_code_3_longest_minutes: within-person cv
+activity__state_code_3_longest_minutes__extra_weekend_delta,activity,physiology,activity__state_code_3_longest_minutes: within-person weekend_delta
+activity__state_code_4_fraction__extra_mean,activity,physiology,activity__state_code_4_fraction: within-person mean
+activity__state_code_4_fraction__extra_std,activity,physiology,activity__state_code_4_fraction: within-person std
+activity__state_code_4_fraction__extra_mad,activity,physiology,activity__state_code_4_fraction: within-person mad
+activity__state_code_4_fraction__extra_cv,activity,physiology,activity__state_code_4_fraction: within-person cv
+activity__state_code_4_fraction__extra_weekend_delta,activity,physiology,activity__state_code_4_fraction: within-person weekend_delta
+activity__state_code_4_longest_minutes__extra_mean,activity,physiology,activity__state_code_4_longest_minutes: within-person mean
+activity__state_code_4_longest_minutes__extra_std,activity,physiology,activity__state_code_4_longest_minutes: within-person std
+activity__state_code_4_longest_minutes__extra_mad,activity,physiology,activity__state_code_4_longest_minutes: within-person mad
+activity__state_code_4_longest_minutes__extra_cv,activity,physiology,activity__state_code_4_longest_minutes: within-person cv
+activity__state_code_4_longest_minutes__extra_weekend_delta,activity,physiology,activity__state_code_4_longest_minutes: within-person weekend_delta
+activity__state_code_5_fraction__extra_mean,activity,physiology,activity__state_code_5_fraction: within-person mean
+activity__state_code_5_fraction__extra_std,activity,physiology,activity__state_code_5_fraction: within-person std
+activity__state_code_5_fraction__extra_mad,activity,physiology,activity__state_code_5_fraction: within-person mad
+activity__state_code_5_fraction__extra_cv,activity,physiology,activity__state_code_5_fraction: within-person cv
+activity__state_code_5_fraction__extra_weekend_delta,activity,physiology,activity__state_code_5_fraction: within-person weekend_delta
+activity__state_code_5_longest_minutes__extra_mean,activity,physiology,activity__state_code_5_longest_minutes: within-person mean
+activity__state_code_5_longest_minutes__extra_std,activity,physiology,activity__state_code_5_longest_minutes: within-person std
+activity__state_code_5_longest_minutes__extra_mad,activity,physiology,activity__state_code_5_longest_minutes: within-person mad
+activity__state_code_5_longest_minutes__extra_cv,activity,physiology,activity__state_code_5_longest_minutes: within-person cv
+activity__state_code_5_longest_minutes__extra_weekend_delta,activity,physiology,activity__state_code_5_longest_minutes: within-person weekend_delta
+activity__state_entropy__extra_mean,activity,physiology,activity__state_entropy: within-person mean
+activity__state_entropy__extra_std,activity,physiology,activity__state_entropy: within-person std
+activity__state_entropy__extra_mad,activity,physiology,activity__state_entropy: within-person mad
+activity__state_entropy__extra_cv,activity,physiology,activity__state_entropy: within-person cv
+activity__state_entropy__extra_weekend_delta,activity,physiology,activity__state_entropy: within-person weekend_delta
+activity__state_transition_rate__extra_mean,activity,physiology,activity__state_transition_rate: within-person mean
+activity__state_transition_rate__extra_std,activity,physiology,activity__state_transition_rate: within-person std
+activity__state_transition_rate__extra_mad,activity,physiology,activity__state_transition_rate: within-person mad
+activity__state_transition_rate__extra_cv,activity,physiology,activity__state_transition_rate: within-person cv
+activity__state_transition_rate__extra_weekend_delta,activity,physiology,activity__state_transition_rate: within-person weekend_delta
+activity__state_valid_fraction__extra_mean,activity,quality,activity__state_valid_fraction: within-person mean
+activity__state_valid_fraction__extra_std,activity,quality,activity__state_valid_fraction: within-person std
+activity__state_valid_fraction__extra_mad,activity,quality,activity__state_valid_fraction: within-person mad
+activity__state_valid_fraction__extra_cv,activity,quality,activity__state_valid_fraction: within-person cv
+activity__state_valid_fraction__extra_weekend_delta,activity,quality,activity__state_valid_fraction: within-person weekend_delta
+activity__state_length__extra_mean,activity,quality,activity__state_length: within-person mean
+activity__state_length__extra_std,activity,quality,activity__state_length: within-person std
+activity__state_length__extra_mad,activity,quality,activity__state_length: within-person mad
+activity__state_length__extra_cv,activity,quality,activity__state_length: within-person cv
+activity__state_length__extra_weekend_delta,activity,quality,activity__state_length: within-person weekend_delta
+activity__met_mean__extra_mean,activity,physiology,activity__met_mean: within-person mean
+activity__met_mean__extra_std,activity,physiology,activity__met_mean: within-person std
+activity__met_mean__extra_mad,activity,physiology,activity__met_mean: within-person mad
+activity__met_mean__extra_cv,activity,physiology,activity__met_mean: within-person cv
+activity__met_mean__extra_weekend_delta,activity,physiology,activity__met_mean: within-person weekend_delta
+activity__met_std__extra_mean,activity,physiology,activity__met_std: within-person mean
+activity__met_std__extra_std,activity,physiology,activity__met_std: within-person std
+activity__met_std__extra_mad,activity,physiology,activity__met_std: within-person mad
+activity__met_std__extra_cv,activity,physiology,activity__met_std: within-person cv
+activity__met_std__extra_weekend_delta,activity,physiology,activity__met_std: within-person weekend_delta
+activity__met_p10__extra_mean,activity,physiology,activity__met_p10: within-person mean
+activity__met_p10__extra_std,activity,physiology,activity__met_p10: within-person std
+activity__met_p10__extra_mad,activity,physiology,activity__met_p10: within-person mad
+activity__met_p10__extra_cv,activity,physiology,activity__met_p10: within-person cv
+activity__met_p10__extra_weekend_delta,activity,physiology,activity__met_p10: within-person weekend_delta
+activity__met_p90__extra_mean,activity,physiology,activity__met_p90: within-person mean
+activity__met_p90__extra_std,activity,physiology,activity__met_p90: within-person std
+activity__met_p90__extra_mad,activity,physiology,activity__met_p90: within-person mad
+activity__met_p90__extra_cv,activity,physiology,activity__met_p90: within-person cv
+activity__met_p90__extra_weekend_delta,activity,physiology,activity__met_p90: within-person weekend_delta
+activity__met_rmssd_adjacent__extra_mean,activity,physiology,activity__met_rmssd_adjacent: within-person mean
+activity__met_rmssd_adjacent__extra_std,activity,physiology,activity__met_rmssd_adjacent: within-person std
+activity__met_rmssd_adjacent__extra_mad,activity,physiology,activity__met_rmssd_adjacent: within-person mad
+activity__met_rmssd_adjacent__extra_cv,activity,physiology,activity__met_rmssd_adjacent: within-person cv
+activity__met_rmssd_adjacent__extra_weekend_delta,activity,physiology,activity__met_rmssd_adjacent: within-person weekend_delta
+activity__met_lag1__extra_mean,activity,physiology,activity__met_lag1: within-person mean
+activity__met_lag1__extra_std,activity,physiology,activity__met_lag1: within-person std
+activity__met_lag1__extra_mad,activity,physiology,activity__met_lag1: within-person mad
+activity__met_lag1__extra_cv,activity,physiology,activity__met_lag1: within-person cv
+activity__met_lag1__extra_weekend_delta,activity,physiology,activity__met_lag1: within-person weekend_delta
+activity__met_last_first_third__extra_mean,activity,physiology,activity__met_last_first_third: within-person mean
+activity__met_last_first_third__extra_std,activity,physiology,activity__met_last_first_third: within-person std
+activity__met_last_first_third__extra_mad,activity,physiology,activity__met_last_first_third: within-person mad
+activity__met_last_first_third__extra_cv,activity,physiology,activity__met_last_first_third: within-person cv
+activity__met_last_first_third__extra_weekend_delta,activity,physiology,activity__met_last_first_third: within-person weekend_delta
+activity__met_valid_fraction__extra_mean,activity,quality,activity__met_valid_fraction: within-person mean
+activity__met_valid_fraction__extra_std,activity,quality,activity__met_valid_fraction: within-person std
+activity__met_valid_fraction__extra_mad,activity,quality,activity__met_valid_fraction: within-person mad
+activity__met_valid_fraction__extra_cv,activity,quality,activity__met_valid_fraction: within-person cv
+activity__met_valid_fraction__extra_weekend_delta,activity,quality,activity__met_valid_fraction: within-person weekend_delta
+activity__met_length__extra_mean,activity,quality,activity__met_length: within-person mean
+activity__met_length__extra_std,activity,quality,activity__met_length: within-person std
+activity__met_length__extra_mad,activity,quality,activity__met_length: within-person mad
+activity__met_length__extra_cv,activity,quality,activity__met_length: within-person cv
+activity__met_length__extra_weekend_delta,activity,quality,activity__met_length: within-person weekend_delta
+activity__met_cosinor_amplitude__extra_mean,activity,physiology,activity__met_cosinor_amplitude: within-person mean
+activity__met_cosinor_amplitude__extra_std,activity,physiology,activity__met_cosinor_amplitude: within-person std
+activity__met_cosinor_amplitude__extra_mad,activity,physiology,activity__met_cosinor_amplitude: within-person mad
+activity__met_cosinor_amplitude__extra_cv,activity,physiology,activity__met_cosinor_amplitude: within-person cv
+activity__met_cosinor_amplitude__extra_weekend_delta,activity,physiology,activity__met_cosinor_amplitude: within-person weekend_delta
+activity__met_cosinor_relative_amplitude__extra_mean,activity,physiology,activity__met_cosinor_relative_amplitude: within-person mean
+activity__met_cosinor_relative_amplitude__extra_std,activity,physiology,activity__met_cosinor_relative_amplitude: within-person std
+activity__met_cosinor_relative_amplitude__extra_mad,activity,physiology,activity__met_cosinor_relative_amplitude: within-person mad
+activity__met_cosinor_relative_amplitude__extra_cv,activity,physiology,activity__met_cosinor_relative_amplitude: within-person cv
+activity__met_cosinor_relative_amplitude__extra_weekend_delta,activity,physiology,activity__met_cosinor_relative_amplitude: within-person weekend_delta
+activity__met_cosinor_phase_cos__extra_mean,activity,physiology,activity__met_cosinor_phase_cos: within-person mean
+activity__met_cosinor_phase_cos__extra_std,activity,physiology,activity__met_cosinor_phase_cos: within-person std
+activity__met_cosinor_phase_cos__extra_mad,activity,physiology,activity__met_cosinor_phase_cos: within-person mad
+activity__met_cosinor_phase_cos__extra_cv,activity,physiology,activity__met_cosinor_phase_cos: within-person cv
+activity__met_cosinor_phase_cos__extra_weekend_delta,activity,physiology,activity__met_cosinor_phase_cos: within-person weekend_delta
+activity__met_cosinor_phase_sin__extra_mean,activity,physiology,activity__met_cosinor_phase_sin: within-person mean
+activity__met_cosinor_phase_sin__extra_std,activity,physiology,activity__met_cosinor_phase_sin: within-person std
+activity__met_cosinor_phase_sin__extra_mad,activity,physiology,activity__met_cosinor_phase_sin: within-person mad
+activity__met_cosinor_phase_sin__extra_cv,activity,physiology,activity__met_cosinor_phase_sin: within-person cv
+activity__met_cosinor_phase_sin__extra_weekend_delta,activity,physiology,activity__met_cosinor_phase_sin: within-person weekend_delta
+activity__met_day_night_difference__extra_mean,activity,physiology,activity__met_day_night_difference: within-person mean
+activity__met_day_night_difference__extra_std,activity,physiology,activity__met_day_night_difference: within-person std
+activity__met_day_night_difference__extra_mad,activity,physiology,activity__met_day_night_difference: within-person mad
+activity__met_day_night_difference__extra_cv,activity,physiology,activity__met_day_night_difference: within-person cv
+activity__met_day_night_difference__extra_weekend_delta,activity,physiology,activity__met_day_night_difference: within-person weekend_delta
+activity__met_relative_high10_low5__extra_mean,activity,physiology,activity__met_relative_high10_low5: within-person mean
+activity__met_relative_high10_low5__extra_std,activity,physiology,activity__met_relative_high10_low5: within-person std
+activity__met_relative_high10_low5__extra_mad,activity,physiology,activity__met_relative_high10_low5: within-person mad
+activity__met_relative_high10_low5__extra_cv,activity,physiology,activity__met_relative_high10_low5: within-person cv
+activity__met_relative_high10_low5__extra_weekend_delta,activity,physiology,activity__met_relative_high10_low5: within-person weekend_delta
+activity__met_low5_met__extra_mean,activity,physiology,activity__met_low5_met: within-person mean
+activity__met_low5_met__extra_std,activity,physiology,activity__met_low5_met: within-person std
+activity__met_low5_met__extra_mad,activity,physiology,activity__met_low5_met: within-person mad
+activity__met_low5_met__extra_cv,activity,physiology,activity__met_low5_met: within-person cv
+activity__met_low5_met__extra_weekend_delta,activity,physiology,activity__met_low5_met: within-person weekend_delta
+activity__met_high10_met__extra_mean,activity,physiology,activity__met_high10_met: within-person mean
+activity__met_high10_met__extra_std,activity,physiology,activity__met_high10_met: within-person std
+activity__met_high10_met__extra_mad,activity,physiology,activity__met_high10_met: within-person mad
+activity__met_high10_met__extra_cv,activity,physiology,activity__met_high10_met: within-person cv
+activity__met_high10_met__extra_weekend_delta,activity,physiology,activity__met_high10_met: within-person weekend_delta
+activity__interval_minutes__extra_mean,activity,quality,activity__interval_minutes: within-person mean
+activity__interval_minutes__extra_std,activity,quality,activity__interval_minutes: within-person std
+activity__interval_minutes__extra_mad,activity,quality,activity__interval_minutes: within-person mad
+activity__interval_minutes__extra_cv,activity,quality,activity__interval_minutes: within-person cv
+activity__interval_minutes__extra_weekend_delta,activity,quality,activity__interval_minutes: within-person weekend_delta
+activity__steps_per_wear_hour__extra_mean,activity,physiology,activity__steps_per_wear_hour: within-person mean
+activity__steps_per_wear_hour__extra_std,activity,physiology,activity__steps_per_wear_hour: within-person std
+activity__steps_per_wear_hour__extra_mad,activity,physiology,activity__steps_per_wear_hour: within-person mad
+activity__steps_per_wear_hour__extra_cv,activity,physiology,activity__steps_per_wear_hour: within-person cv
+activity__steps_per_wear_hour__extra_weekend_delta,activity,physiology,activity__steps_per_wear_hour: within-person weekend_delta
+activity__moderate_high_fraction__extra_mean,activity,physiology,activity__moderate_high_fraction: within-person mean
+activity__moderate_high_fraction__extra_std,activity,physiology,activity__moderate_high_fraction: within-person std
+activity__moderate_high_fraction__extra_mad,activity,physiology,activity__moderate_high_fraction: within-person mad
+activity__moderate_high_fraction__extra_cv,activity,physiology,activity__moderate_high_fraction: within-person cv
+activity__moderate_high_fraction__extra_weekend_delta,activity,physiology,activity__moderate_high_fraction: within-person weekend_delta
+activity__inactive_fraction__extra_mean,activity,physiology,activity__inactive_fraction: within-person mean
+activity__inactive_fraction__extra_std,activity,physiology,activity__inactive_fraction: within-person std
+activity__inactive_fraction__extra_mad,activity,physiology,activity__inactive_fraction: within-person mad
+activity__inactive_fraction__extra_cv,activity,physiology,activity__inactive_fraction: within-person cv
+activity__inactive_fraction__extra_weekend_delta,activity,physiology,activity__inactive_fraction: within-person weekend_delta
+activity__hour_00__mean,activity,physiology,Local hour 0: across-day MET mean
+activity__hour_00__std,activity,physiology,Local hour 0: across-day MET std
+activity__hour_01__mean,activity,physiology,Local hour 1: across-day MET mean
+activity__hour_01__std,activity,physiology,Local hour 1: across-day MET std
+activity__hour_02__mean,activity,physiology,Local hour 2: across-day MET mean
+activity__hour_02__std,activity,physiology,Local hour 2: across-day MET std
+activity__hour_03__mean,activity,physiology,Local hour 3: across-day MET mean
+activity__hour_03__std,activity,physiology,Local hour 3: across-day MET std
+activity__hour_04__mean,activity,physiology,Local hour 4: across-day MET mean
+activity__hour_04__std,activity,physiology,Local hour 4: across-day MET std
+activity__hour_05__mean,activity,physiology,Local hour 5: across-day MET mean
+activity__hour_05__std,activity,physiology,Local hour 5: across-day MET std
+activity__hour_06__mean,activity,physiology,Local hour 6: across-day MET mean
+activity__hour_06__std,activity,physiology,Local hour 6: across-day MET std
+activity__hour_07__mean,activity,physiology,Local hour 7: across-day MET mean
+activity__hour_07__std,activity,physiology,Local hour 7: across-day MET std
+activity__hour_08__mean,activity,physiology,Local hour 8: across-day MET mean
+activity__hour_08__std,activity,physiology,Local hour 8: across-day MET std
+activity__hour_09__mean,activity,physiology,Local hour 9: across-day MET mean
+activity__hour_09__std,activity,physiology,Local hour 9: across-day MET std
+activity__hour_10__mean,activity,physiology,Local hour 10: across-day MET mean
+activity__hour_10__std,activity,physiology,Local hour 10: across-day MET std
+activity__hour_11__mean,activity,physiology,Local hour 11: across-day MET mean
+activity__hour_11__std,activity,physiology,Local hour 11: across-day MET std
+activity__hour_12__mean,activity,physiology,Local hour 12: across-day MET mean
+activity__hour_12__std,activity,physiology,Local hour 12: across-day MET std
+activity__hour_13__mean,activity,physiology,Local hour 13: across-day MET mean
+activity__hour_13__std,activity,physiology,Local hour 13: across-day MET std
+activity__hour_14__mean,activity,physiology,Local hour 14: across-day MET mean
+activity__hour_14__std,activity,physiology,Local hour 14: across-day MET std
+activity__hour_15__mean,activity,physiology,Local hour 15: across-day MET mean
+activity__hour_15__std,activity,physiology,Local hour 15: across-day MET std
+activity__hour_16__mean,activity,physiology,Local hour 16: across-day MET mean
+activity__hour_16__std,activity,physiology,Local hour 16: across-day MET std
+activity__hour_17__mean,activity,physiology,Local hour 17: across-day MET mean
+activity__hour_17__std,activity,physiology,Local hour 17: across-day MET std
+activity__hour_18__mean,activity,physiology,Local hour 18: across-day MET mean
+activity__hour_18__std,activity,physiology,Local hour 18: across-day MET std
+activity__hour_19__mean,activity,physiology,Local hour 19: across-day MET mean
+activity__hour_19__std,activity,physiology,Local hour 19: across-day MET std
+activity__hour_20__mean,activity,physiology,Local hour 20: across-day MET mean
+activity__hour_20__std,activity,physiology,Local hour 20: across-day MET std
+activity__hour_21__mean,activity,physiology,Local hour 21: across-day MET mean
+activity__hour_21__std,activity,physiology,Local hour 21: across-day MET std
+activity__hour_22__mean,activity,physiology,Local hour 22: across-day MET mean
+activity__hour_22__std,activity,physiology,Local hour 22: across-day MET std
+activity__hour_23__mean,activity,physiology,Local hour 23: across-day MET mean
+activity__hour_23__std,activity,physiology,Local hour 23: across-day MET std
+sleep__awake__extra_mean,sleep,physiology,sleep__awake: within-person mean
+sleep__awake__extra_std,sleep,physiology,sleep__awake: within-person std
+sleep__awake__extra_mad,sleep,physiology,sleep__awake: within-person mad
+sleep__awake__extra_cv,sleep,physiology,sleep__awake: within-person cv
+sleep__awake__extra_weekend_delta,sleep,physiology,sleep__awake: within-person weekend_delta
+sleep__breath_average__extra_mean,sleep,physiology,sleep__breath_average: within-person mean
+sleep__breath_average__extra_std,sleep,physiology,sleep__breath_average: within-person std
+sleep__breath_average__extra_mad,sleep,physiology,sleep__breath_average: within-person mad
+sleep__breath_average__extra_cv,sleep,physiology,sleep__breath_average: within-person cv
+sleep__breath_average__extra_weekend_delta,sleep,physiology,sleep__breath_average: within-person weekend_delta
+sleep__deep__extra_mean,sleep,physiology,sleep__deep: within-person mean
+sleep__deep__extra_std,sleep,physiology,sleep__deep: within-person std
+sleep__deep__extra_mad,sleep,physiology,sleep__deep: within-person mad
+sleep__deep__extra_cv,sleep,physiology,sleep__deep: within-person cv
+sleep__deep__extra_weekend_delta,sleep,physiology,sleep__deep: within-person weekend_delta
+sleep__duration__extra_mean,sleep,physiology,sleep__duration: within-person mean
+sleep__duration__extra_std,sleep,physiology,sleep__duration: within-person std
+sleep__duration__extra_mad,sleep,physiology,sleep__duration: within-person mad
+sleep__duration__extra_cv,sleep,physiology,sleep__duration: within-person cv
+sleep__duration__extra_weekend_delta,sleep,physiology,sleep__duration: within-person weekend_delta
+sleep__efficiency__extra_mean,sleep,physiology,sleep__efficiency: within-person mean
+sleep__efficiency__extra_std,sleep,physiology,sleep__efficiency: within-person std
+sleep__efficiency__extra_mad,sleep,physiology,sleep__efficiency: within-person mad
+sleep__efficiency__extra_cv,sleep,physiology,sleep__efficiency: within-person cv
+sleep__efficiency__extra_weekend_delta,sleep,physiology,sleep__efficiency: within-person weekend_delta
+sleep__hr_average__extra_mean,sleep,physiology,sleep__hr_average: within-person mean
+sleep__hr_average__extra_std,sleep,physiology,sleep__hr_average: within-person std
+sleep__hr_average__extra_mad,sleep,physiology,sleep__hr_average: within-person mad
+sleep__hr_average__extra_cv,sleep,physiology,sleep__hr_average: within-person cv
+sleep__hr_average__extra_weekend_delta,sleep,physiology,sleep__hr_average: within-person weekend_delta
+sleep__hr_lowest__extra_mean,sleep,physiology,sleep__hr_lowest: within-person mean
+sleep__hr_lowest__extra_std,sleep,physiology,sleep__hr_lowest: within-person std
+sleep__hr_lowest__extra_mad,sleep,physiology,sleep__hr_lowest: within-person mad
+sleep__hr_lowest__extra_cv,sleep,physiology,sleep__hr_lowest: within-person cv
+sleep__hr_lowest__extra_weekend_delta,sleep,physiology,sleep__hr_lowest: within-person weekend_delta
+sleep__light__extra_mean,sleep,physiology,sleep__light: within-person mean
+sleep__light__extra_std,sleep,physiology,sleep__light: within-person std
+sleep__light__extra_mad,sleep,physiology,sleep__light: within-person mad
+sleep__light__extra_cv,sleep,physiology,sleep__light: within-person cv
+sleep__light__extra_weekend_delta,sleep,physiology,sleep__light: within-person weekend_delta
+sleep__onset_latency__extra_mean,sleep,physiology,sleep__onset_latency: within-person mean
+sleep__onset_latency__extra_std,sleep,physiology,sleep__onset_latency: within-person std
+sleep__onset_latency__extra_mad,sleep,physiology,sleep__onset_latency: within-person mad
+sleep__onset_latency__extra_cv,sleep,physiology,sleep__onset_latency: within-person cv
+sleep__onset_latency__extra_weekend_delta,sleep,physiology,sleep__onset_latency: within-person weekend_delta
+sleep__rem__extra_mean,sleep,physiology,sleep__rem: within-person mean
+sleep__rem__extra_std,sleep,physiology,sleep__rem: within-person std
+sleep__rem__extra_mad,sleep,physiology,sleep__rem: within-person mad
+sleep__rem__extra_cv,sleep,physiology,sleep__rem: within-person cv
+sleep__rem__extra_weekend_delta,sleep,physiology,sleep__rem: within-person weekend_delta
+sleep__restless__extra_mean,sleep,physiology,sleep__restless: within-person mean
+sleep__restless__extra_std,sleep,physiology,sleep__restless: within-person std
+sleep__restless__extra_mad,sleep,physiology,sleep__restless: within-person mad
+sleep__restless__extra_cv,sleep,physiology,sleep__restless: within-person cv
+sleep__restless__extra_weekend_delta,sleep,physiology,sleep__restless: within-person weekend_delta
+sleep__rmssd__extra_mean,sleep,physiology,sleep__rmssd: within-person mean
+sleep__rmssd__extra_std,sleep,physiology,sleep__rmssd: within-person std
+sleep__rmssd__extra_mad,sleep,physiology,sleep__rmssd: within-person mad
+sleep__rmssd__extra_cv,sleep,physiology,sleep__rmssd: within-person cv
+sleep__rmssd__extra_weekend_delta,sleep,physiology,sleep__rmssd: within-person weekend_delta
+sleep__score__extra_mean,sleep,vendor,sleep__score: within-person mean
+sleep__score__extra_std,sleep,vendor,sleep__score: within-person std
+sleep__score__extra_mad,sleep,vendor,sleep__score: within-person mad
+sleep__score__extra_cv,sleep,vendor,sleep__score: within-person cv
+sleep__score__extra_weekend_delta,sleep,vendor,sleep__score: within-person weekend_delta
+sleep__score_alignment__extra_mean,sleep,vendor,sleep__score_alignment: within-person mean
+sleep__score_alignment__extra_std,sleep,vendor,sleep__score_alignment: within-person std
+sleep__score_alignment__extra_mad,sleep,vendor,sleep__score_alignment: within-person mad
+sleep__score_alignment__extra_cv,sleep,vendor,sleep__score_alignment: within-person cv
+sleep__score_alignment__extra_weekend_delta,sleep,vendor,sleep__score_alignment: within-person weekend_delta
+sleep__score_deep__extra_mean,sleep,vendor,sleep__score_deep: within-person mean
+sleep__score_deep__extra_std,sleep,vendor,sleep__score_deep: within-person std
+sleep__score_deep__extra_mad,sleep,vendor,sleep__score_deep: within-person mad
+sleep__score_deep__extra_cv,sleep,vendor,sleep__score_deep: within-person cv
+sleep__score_deep__extra_weekend_delta,sleep,vendor,sleep__score_deep: within-person weekend_delta
+sleep__score_disturbances__extra_mean,sleep,vendor,sleep__score_disturbances: within-person mean
+sleep__score_disturbances__extra_std,sleep,vendor,sleep__score_disturbances: within-person std
+sleep__score_disturbances__extra_mad,sleep,vendor,sleep__score_disturbances: within-person mad
+sleep__score_disturbances__extra_cv,sleep,vendor,sleep__score_disturbances: within-person cv
+sleep__score_disturbances__extra_weekend_delta,sleep,vendor,sleep__score_disturbances: within-person weekend_delta
+sleep__score_efficiency__extra_mean,sleep,vendor,sleep__score_efficiency: within-person mean
+sleep__score_efficiency__extra_std,sleep,vendor,sleep__score_efficiency: within-person std
+sleep__score_efficiency__extra_mad,sleep,vendor,sleep__score_efficiency: within-person mad
+sleep__score_efficiency__extra_cv,sleep,vendor,sleep__score_efficiency: within-person cv
+sleep__score_efficiency__extra_weekend_delta,sleep,vendor,sleep__score_efficiency: within-person weekend_delta
+sleep__score_latency__extra_mean,sleep,vendor,sleep__score_latency: within-person mean
+sleep__score_latency__extra_std,sleep,vendor,sleep__score_latency: within-person std
+sleep__score_latency__extra_mad,sleep,vendor,sleep__score_latency: within-person mad
+sleep__score_latency__extra_cv,sleep,vendor,sleep__score_latency: within-person cv
+sleep__score_latency__extra_weekend_delta,sleep,vendor,sleep__score_latency: within-person weekend_delta
+sleep__score_rem__extra_mean,sleep,vendor,sleep__score_rem: within-person mean
+sleep__score_rem__extra_std,sleep,vendor,sleep__score_rem: within-person std
+sleep__score_rem__extra_mad,sleep,vendor,sleep__score_rem: within-person mad
+sleep__score_rem__extra_cv,sleep,vendor,sleep__score_rem: within-person cv
+sleep__score_rem__extra_weekend_delta,sleep,vendor,sleep__score_rem: within-person weekend_delta
+sleep__score_total__extra_mean,sleep,vendor,sleep__score_total: within-person mean
+sleep__score_total__extra_std,sleep,vendor,sleep__score_total: within-person std
+sleep__score_total__extra_mad,sleep,vendor,sleep__score_total: within-person mad
+sleep__score_total__extra_cv,sleep,vendor,sleep__score_total: within-person cv
+sleep__score_total__extra_weekend_delta,sleep,vendor,sleep__score_total: within-person weekend_delta
+sleep__temperature_delta__extra_mean,sleep,physiology,sleep__temperature_delta: within-person mean
+sleep__temperature_delta__extra_std,sleep,physiology,sleep__temperature_delta: within-person std
+sleep__temperature_delta__extra_mad,sleep,physiology,sleep__temperature_delta: within-person mad
+sleep__temperature_delta__extra_cv,sleep,physiology,sleep__temperature_delta: within-person cv
+sleep__temperature_delta__extra_weekend_delta,sleep,physiology,sleep__temperature_delta: within-person weekend_delta
+sleep__temperature_deviation__extra_mean,sleep,physiology,sleep__temperature_deviation: within-person mean
+sleep__temperature_deviation__extra_std,sleep,physiology,sleep__temperature_deviation: within-person std
+sleep__temperature_deviation__extra_mad,sleep,physiology,sleep__temperature_deviation: within-person mad
+sleep__temperature_deviation__extra_cv,sleep,physiology,sleep__temperature_deviation: within-person cv
+sleep__temperature_deviation__extra_weekend_delta,sleep,physiology,sleep__temperature_deviation: within-person weekend_delta
+sleep__total__extra_mean,sleep,physiology,sleep__total: within-person mean
+sleep__total__extra_std,sleep,physiology,sleep__total: within-person std
+sleep__total__extra_mad,sleep,physiology,sleep__total: within-person mad
+sleep__total__extra_cv,sleep,physiology,sleep__total: within-person cv
+sleep__total__extra_weekend_delta,sleep,physiology,sleep__total: within-person weekend_delta
+sleep__hr_mean__extra_mean,sleep,physiology,sleep__hr_mean: within-person mean
+sleep__hr_mean__extra_std,sleep,physiology,sleep__hr_mean: within-person std
+sleep__hr_mean__extra_mad,sleep,physiology,sleep__hr_mean: within-person mad
+sleep__hr_mean__extra_cv,sleep,physiology,sleep__hr_mean: within-person cv
+sleep__hr_mean__extra_weekend_delta,sleep,physiology,sleep__hr_mean: within-person weekend_delta
+sleep__hr_std__extra_mean,sleep,physiology,sleep__hr_std: within-person mean
+sleep__hr_std__extra_std,sleep,physiology,sleep__hr_std: within-person std
+sleep__hr_std__extra_mad,sleep,physiology,sleep__hr_std: within-person mad
+sleep__hr_std__extra_cv,sleep,physiology,sleep__hr_std: within-person cv
+sleep__hr_std__extra_weekend_delta,sleep,physiology,sleep__hr_std: within-person weekend_delta
+sleep__hr_p10__extra_mean,sleep,physiology,sleep__hr_p10: within-person mean
+sleep__hr_p10__extra_std,sleep,physiology,sleep__hr_p10: within-person std
+sleep__hr_p10__extra_mad,sleep,physiology,sleep__hr_p10: within-person mad
+sleep__hr_p10__extra_cv,sleep,physiology,sleep__hr_p10: within-person cv
+sleep__hr_p10__extra_weekend_delta,sleep,physiology,sleep__hr_p10: within-person weekend_delta
+sleep__hr_p90__extra_mean,sleep,physiology,sleep__hr_p90: within-person mean
+sleep__hr_p90__extra_std,sleep,physiology,sleep__hr_p90: within-person std
+sleep__hr_p90__extra_mad,sleep,physiology,sleep__hr_p90: within-person mad
+sleep__hr_p90__extra_cv,sleep,physiology,sleep__hr_p90: within-person cv
+sleep__hr_p90__extra_weekend_delta,sleep,physiology,sleep__hr_p90: within-person weekend_delta
+sleep__hr_rmssd_adjacent__extra_mean,sleep,physiology,sleep__hr_rmssd_adjacent: within-person mean
+sleep__hr_rmssd_adjacent__extra_std,sleep,physiology,sleep__hr_rmssd_adjacent: within-person std
+sleep__hr_rmssd_adjacent__extra_mad,sleep,physiology,sleep__hr_rmssd_adjacent: within-person mad
+sleep__hr_rmssd_adjacent__extra_cv,sleep,physiology,sleep__hr_rmssd_adjacent: within-person cv
+sleep__hr_rmssd_adjacent__extra_weekend_delta,sleep,physiology,sleep__hr_rmssd_adjacent: within-person weekend_delta
+sleep__hr_lag1__extra_mean,sleep,physiology,sleep__hr_lag1: within-person mean
+sleep__hr_lag1__extra_std,sleep,physiology,sleep__hr_lag1: within-person std
+sleep__hr_lag1__extra_mad,sleep,physiology,sleep__hr_lag1: within-person mad
+sleep__hr_lag1__extra_cv,sleep,physiology,sleep__hr_lag1: within-person cv
+sleep__hr_lag1__extra_weekend_delta,sleep,physiology,sleep__hr_lag1: within-person weekend_delta
+sleep__hr_last_first_third__extra_mean,sleep,physiology,sleep__hr_last_first_third: within-person mean
+sleep__hr_last_first_third__extra_std,sleep,physiology,sleep__hr_last_first_third: within-person std
+sleep__hr_last_first_third__extra_mad,sleep,physiology,sleep__hr_last_first_third: within-person mad
+sleep__hr_last_first_third__extra_cv,sleep,physiology,sleep__hr_last_first_third: within-person cv
+sleep__hr_last_first_third__extra_weekend_delta,sleep,physiology,sleep__hr_last_first_third: within-person weekend_delta
+sleep__hr_valid_fraction__extra_mean,sleep,quality,sleep__hr_valid_fraction: within-person mean
+sleep__hr_valid_fraction__extra_std,sleep,quality,sleep__hr_valid_fraction: within-person std
+sleep__hr_valid_fraction__extra_mad,sleep,quality,sleep__hr_valid_fraction: within-person mad
+sleep__hr_valid_fraction__extra_cv,sleep,quality,sleep__hr_valid_fraction: within-person cv
+sleep__hr_valid_fraction__extra_weekend_delta,sleep,quality,sleep__hr_valid_fraction: within-person weekend_delta
+sleep__hr_length__extra_mean,sleep,quality,sleep__hr_length: within-person mean
+sleep__hr_length__extra_std,sleep,quality,sleep__hr_length: within-person std
+sleep__hr_length__extra_mad,sleep,quality,sleep__hr_length: within-person mad
+sleep__hr_length__extra_cv,sleep,quality,sleep__hr_length: within-person cv
+sleep__hr_length__extra_weekend_delta,sleep,quality,sleep__hr_length: within-person weekend_delta
+sleep__state_code_1_fraction__extra_mean,sleep,physiology,sleep__state_code_1_fraction: within-person mean
+sleep__state_code_1_fraction__extra_std,sleep,physiology,sleep__state_code_1_fraction: within-person std
+sleep__state_code_1_fraction__extra_mad,sleep,physiology,sleep__state_code_1_fraction: within-person mad
+sleep__state_code_1_fraction__extra_cv,sleep,physiology,sleep__state_code_1_fraction: within-person cv
+sleep__state_code_1_fraction__extra_weekend_delta,sleep,physiology,sleep__state_code_1_fraction: within-person weekend_delta
+sleep__state_code_1_longest_minutes__extra_mean,sleep,physiology,sleep__state_code_1_longest_minutes: within-person mean
+sleep__state_code_1_longest_minutes__extra_std,sleep,physiology,sleep__state_code_1_longest_minutes: within-person std
+sleep__state_code_1_longest_minutes__extra_mad,sleep,physiology,sleep__state_code_1_longest_minutes: within-person mad
+sleep__state_code_1_longest_minutes__extra_cv,sleep,physiology,sleep__state_code_1_longest_minutes: within-person cv
+sleep__state_code_1_longest_minutes__extra_weekend_delta,sleep,physiology,sleep__state_code_1_longest_minutes: within-person weekend_delta
+sleep__state_code_2_fraction__extra_mean,sleep,physiology,sleep__state_code_2_fraction: within-person mean
+sleep__state_code_2_fraction__extra_std,sleep,physiology,sleep__state_code_2_fraction: within-person std
+sleep__state_code_2_fraction__extra_mad,sleep,physiology,sleep__state_code_2_fraction: within-person mad
+sleep__state_code_2_fraction__extra_cv,sleep,physiology,sleep__state_code_2_fraction: within-person cv
+sleep__state_code_2_fraction__extra_weekend_delta,sleep,physiology,sleep__state_code_2_fraction: within-person weekend_delta
+sleep__state_code_2_longest_minutes__extra_mean,sleep,physiology,sleep__state_code_2_longest_minutes: within-person mean
+sleep__state_code_2_longest_minutes__extra_std,sleep,physiology,sleep__state_code_2_longest_minutes: within-person std
+sleep__state_code_2_longest_minutes__extra_mad,sleep,physiology,sleep__state_code_2_longest_minutes: within-person mad
+sleep__state_code_2_longest_minutes__extra_cv,sleep,physiology,sleep__state_code_2_longest_minutes: within-person cv
+sleep__state_code_2_longest_minutes__extra_weekend_delta,sleep,physiology,sleep__state_code_2_longest_minutes: within-person weekend_delta
+sleep__state_code_3_fraction__extra_mean,sleep,physiology,sleep__state_code_3_fraction: within-person mean
+sleep__state_code_3_fraction__extra_std,sleep,physiology,sleep__state_code_3_fraction: within-person std
+sleep__state_code_3_fraction__extra_mad,sleep,physiology,sleep__state_code_3_fraction: within-person mad
+sleep__state_code_3_fraction__extra_cv,sleep,physiology,sleep__state_code_3_fraction: within-person cv
+sleep__state_code_3_fraction__extra_weekend_delta,sleep,physiology,sleep__state_code_3_fraction: within-person weekend_delta
+sleep__state_code_3_longest_minutes__extra_mean,sleep,physiology,sleep__state_code_3_longest_minutes: within-person mean
+sleep__state_code_3_longest_minutes__extra_std,sleep,physiology,sleep__state_code_3_longest_minutes: within-person std
+sleep__state_code_3_longest_minutes__extra_mad,sleep,physiology,sleep__state_code_3_longest_minutes: within-person mad
+sleep__state_code_3_longest_minutes__extra_cv,sleep,physiology,sleep__state_code_3_longest_minutes: within-person cv
+sleep__state_code_3_longest_minutes__extra_weekend_delta,sleep,physiology,sleep__state_code_3_longest_minutes: within-person weekend_delta
+sleep__state_code_4_fraction__extra_mean,sleep,physiology,sleep__state_code_4_fraction: within-person mean
+sleep__state_code_4_fraction__extra_std,sleep,physiology,sleep__state_code_4_fraction: within-person std
+sleep__state_code_4_fraction__extra_mad,sleep,physiology,sleep__state_code_4_fraction: within-person mad
+sleep__state_code_4_fraction__extra_cv,sleep,physiology,sleep__state_code_4_fraction: within-person cv
+sleep__state_code_4_fraction__extra_weekend_delta,sleep,physiology,sleep__state_code_4_fraction: within-person weekend_delta
+sleep__state_code_4_longest_minutes__extra_mean,sleep,physiology,sleep__state_code_4_longest_minutes: within-person mean
+sleep__state_code_4_longest_minutes__extra_std,sleep,physiology,sleep__state_code_4_longest_minutes: within-person std
+sleep__state_code_4_longest_minutes__extra_mad,sleep,physiology,sleep__state_code_4_longest_minutes: within-person mad
+sleep__state_code_4_longest_minutes__extra_cv,sleep,physiology,sleep__state_code_4_longest_minutes: within-person cv
+sleep__state_code_4_longest_minutes__extra_weekend_delta,sleep,physiology,sleep__state_code_4_longest_minutes: within-person weekend_delta
+sleep__state_entropy__extra_mean,sleep,physiology,sleep__state_entropy: within-person mean
+sleep__state_entropy__extra_std,sleep,physiology,sleep__state_entropy: within-person std
+sleep__state_entropy__extra_mad,sleep,physiology,sleep__state_entropy: within-person mad
+sleep__state_entropy__extra_cv,sleep,physiology,sleep__state_entropy: within-person cv
+sleep__state_entropy__extra_weekend_delta,sleep,physiology,sleep__state_entropy: within-person weekend_delta
+sleep__state_transition_rate__extra_mean,sleep,physiology,sleep__state_transition_rate: within-person mean
+sleep__state_transition_rate__extra_std,sleep,physiology,sleep__state_transition_rate: within-person std
+sleep__state_transition_rate__extra_mad,sleep,physiology,sleep__state_transition_rate: within-person mad
+sleep__state_transition_rate__extra_cv,sleep,physiology,sleep__state_transition_rate: within-person cv
+sleep__state_transition_rate__extra_weekend_delta,sleep,physiology,sleep__state_transition_rate: within-person weekend_delta
+sleep__state_valid_fraction__extra_mean,sleep,quality,sleep__state_valid_fraction: within-person mean
+sleep__state_valid_fraction__extra_std,sleep,quality,sleep__state_valid_fraction: within-person std
+sleep__state_valid_fraction__extra_mad,sleep,quality,sleep__state_valid_fraction: within-person mad
+sleep__state_valid_fraction__extra_cv,sleep,quality,sleep__state_valid_fraction: within-person cv
+sleep__state_valid_fraction__extra_weekend_delta,sleep,quality,sleep__state_valid_fraction: within-person weekend_delta
+sleep__state_length__extra_mean,sleep,quality,sleep__state_length: within-person mean
+sleep__state_length__extra_std,sleep,quality,sleep__state_length: within-person std
+sleep__state_length__extra_mad,sleep,quality,sleep__state_length: within-person mad
+sleep__state_length__extra_cv,sleep,quality,sleep__state_length: within-person cv
+sleep__state_length__extra_weekend_delta,sleep,quality,sleep__state_length: within-person weekend_delta
+sleep__hrv_mean__extra_mean,sleep,physiology,sleep__hrv_mean: within-person mean
+sleep__hrv_mean__extra_std,sleep,physiology,sleep__hrv_mean: within-person std
+sleep__hrv_mean__extra_mad,sleep,physiology,sleep__hrv_mean: within-person mad
+sleep__hrv_mean__extra_cv,sleep,physiology,sleep__hrv_mean: within-person cv
+sleep__hrv_mean__extra_weekend_delta,sleep,physiology,sleep__hrv_mean: within-person weekend_delta
+sleep__hrv_std__extra_mean,sleep,physiology,sleep__hrv_std: within-person mean
+sleep__hrv_std__extra_std,sleep,physiology,sleep__hrv_std: within-person std
+sleep__hrv_std__extra_mad,sleep,physiology,sleep__hrv_std: within-person mad
+sleep__hrv_std__extra_cv,sleep,physiology,sleep__hrv_std: within-person cv
+sleep__hrv_std__extra_weekend_delta,sleep,physiology,sleep__hrv_std: within-person weekend_delta
+sleep__hrv_p10__extra_mean,sleep,physiology,sleep__hrv_p10: within-person mean
+sleep__hrv_p10__extra_std,sleep,physiology,sleep__hrv_p10: within-person std
+sleep__hrv_p10__extra_mad,sleep,physiology,sleep__hrv_p10: within-person mad
+sleep__hrv_p10__extra_cv,sleep,physiology,sleep__hrv_p10: within-person cv
+sleep__hrv_p10__extra_weekend_delta,sleep,physiology,sleep__hrv_p10: within-person weekend_delta
+sleep__hrv_p90__extra_mean,sleep,physiology,sleep__hrv_p90: within-person mean
+sleep__hrv_p90__extra_std,sleep,physiology,sleep__hrv_p90: within-person std
+sleep__hrv_p90__extra_mad,sleep,physiology,sleep__hrv_p90: within-person mad
+sleep__hrv_p90__extra_cv,sleep,physiology,sleep__hrv_p90: within-person cv
+sleep__hrv_p90__extra_weekend_delta,sleep,physiology,sleep__hrv_p90: within-person weekend_delta
+sleep__hrv_rmssd_adjacent__extra_mean,sleep,physiology,sleep__hrv_rmssd_adjacent: within-person mean
+sleep__hrv_rmssd_adjacent__extra_std,sleep,physiology,sleep__hrv_rmssd_adjacent: within-person std
+sleep__hrv_rmssd_adjacent__extra_mad,sleep,physiology,sleep__hrv_rmssd_adjacent: within-person mad
+sleep__hrv_rmssd_adjacent__extra_cv,sleep,physiology,sleep__hrv_rmssd_adjacent: within-person cv
+sleep__hrv_rmssd_adjacent__extra_weekend_delta,sleep,physiology,sleep__hrv_rmssd_adjacent: within-person weekend_delta
+sleep__hrv_lag1__extra_mean,sleep,physiology,sleep__hrv_lag1: within-person mean
+sleep__hrv_lag1__extra_std,sleep,physiology,sleep__hrv_lag1: within-person std
+sleep__hrv_lag1__extra_mad,sleep,physiology,sleep__hrv_lag1: within-person mad
+sleep__hrv_lag1__extra_cv,sleep,physiology,sleep__hrv_lag1: within-person cv
+sleep__hrv_lag1__extra_weekend_delta,sleep,physiology,sleep__hrv_lag1: within-person weekend_delta
+sleep__hrv_last_first_third__extra_mean,sleep,physiology,sleep__hrv_last_first_third: within-person mean
+sleep__hrv_last_first_third__extra_std,sleep,physiology,sleep__hrv_last_first_third: within-person std
+sleep__hrv_last_first_third__extra_mad,sleep,physiology,sleep__hrv_last_first_third: within-person mad
+sleep__hrv_last_first_third__extra_cv,sleep,physiology,sleep__hrv_last_first_third: within-person cv
+sleep__hrv_last_first_third__extra_weekend_delta,sleep,physiology,sleep__hrv_last_first_third: within-person weekend_delta
+sleep__hrv_valid_fraction__extra_mean,sleep,quality,sleep__hrv_valid_fraction: within-person mean
+sleep__hrv_valid_fraction__extra_std,sleep,quality,sleep__hrv_valid_fraction: within-person std
+sleep__hrv_valid_fraction__extra_mad,sleep,quality,sleep__hrv_valid_fraction: within-person mad
+sleep__hrv_valid_fraction__extra_cv,sleep,quality,sleep__hrv_valid_fraction: within-person cv
+sleep__hrv_valid_fraction__extra_weekend_delta,sleep,quality,sleep__hrv_valid_fraction: within-person weekend_delta
+sleep__hrv_length__extra_mean,sleep,quality,sleep__hrv_length: within-person mean
+sleep__hrv_length__extra_std,sleep,quality,sleep__hrv_length: within-person std
+sleep__hrv_length__extra_mad,sleep,quality,sleep__hrv_length: within-person mad
+sleep__hrv_length__extra_cv,sleep,quality,sleep__hrv_length: within-person cv
+sleep__hrv_length__extra_weekend_delta,sleep,quality,sleep__hrv_length: within-person weekend_delta
+sleep__deep_fraction__extra_mean,sleep,physiology,sleep__deep_fraction: within-person mean
+sleep__deep_fraction__extra_std,sleep,physiology,sleep__deep_fraction: within-person std
+sleep__deep_fraction__extra_mad,sleep,physiology,sleep__deep_fraction: within-person mad
+sleep__deep_fraction__extra_cv,sleep,physiology,sleep__deep_fraction: within-person cv
+sleep__deep_fraction__extra_weekend_delta,sleep,physiology,sleep__deep_fraction: within-person weekend_delta
+sleep__light_fraction__extra_mean,sleep,physiology,sleep__light_fraction: within-person mean
+sleep__light_fraction__extra_std,sleep,physiology,sleep__light_fraction: within-person std
+sleep__light_fraction__extra_mad,sleep,physiology,sleep__light_fraction: within-person mad
+sleep__light_fraction__extra_cv,sleep,physiology,sleep__light_fraction: within-person cv
+sleep__light_fraction__extra_weekend_delta,sleep,physiology,sleep__light_fraction: within-person weekend_delta
+sleep__rem_fraction__extra_mean,sleep,physiology,sleep__rem_fraction: within-person mean
+sleep__rem_fraction__extra_std,sleep,physiology,sleep__rem_fraction: within-person std
+sleep__rem_fraction__extra_mad,sleep,physiology,sleep__rem_fraction: within-person mad
+sleep__rem_fraction__extra_cv,sleep,physiology,sleep__rem_fraction: within-person cv
+sleep__rem_fraction__extra_weekend_delta,sleep,physiology,sleep__rem_fraction: within-person weekend_delta
+sleep__awake_fraction__extra_mean,sleep,physiology,sleep__awake_fraction: within-person mean
+sleep__awake_fraction__extra_std,sleep,physiology,sleep__awake_fraction: within-person std
+sleep__awake_fraction__extra_mad,sleep,physiology,sleep__awake_fraction: within-person mad
+sleep__awake_fraction__extra_cv,sleep,physiology,sleep__awake_fraction: within-person cv
+sleep__awake_fraction__extra_weekend_delta,sleep,physiology,sleep__awake_fraction: within-person weekend_delta
+sleep__latency_fraction__extra_mean,sleep,physiology,sleep__latency_fraction: within-person mean
+sleep__latency_fraction__extra_std,sleep,physiology,sleep__latency_fraction: within-person std
+sleep__latency_fraction__extra_mad,sleep,physiology,sleep__latency_fraction: within-person mad
+sleep__latency_fraction__extra_cv,sleep,physiology,sleep__latency_fraction: within-person cv
+sleep__latency_fraction__extra_weekend_delta,sleep,physiology,sleep__latency_fraction: within-person weekend_delta
+sleep__bedtime_sin__extra_mean,sleep,physiology,sleep__bedtime_sin: within-person mean
+sleep__bedtime_sin__extra_std,sleep,physiology,sleep__bedtime_sin: within-person std
+sleep__bedtime_sin__extra_mad,sleep,physiology,sleep__bedtime_sin: within-person mad
+sleep__bedtime_sin__extra_cv,sleep,physiology,sleep__bedtime_sin: within-person cv
+sleep__bedtime_sin__extra_weekend_delta,sleep,physiology,sleep__bedtime_sin: within-person weekend_delta
+sleep__bedtime_cos__extra_mean,sleep,physiology,sleep__bedtime_cos: within-person mean
+sleep__bedtime_cos__extra_std,sleep,physiology,sleep__bedtime_cos: within-person std
+sleep__bedtime_cos__extra_mad,sleep,physiology,sleep__bedtime_cos: within-person mad
+sleep__bedtime_cos__extra_cv,sleep,physiology,sleep__bedtime_cos: within-person cv
+sleep__bedtime_cos__extra_weekend_delta,sleep,physiology,sleep__bedtime_cos: within-person weekend_delta
+sleep__wake_sin__extra_mean,sleep,physiology,sleep__wake_sin: within-person mean
+sleep__wake_sin__extra_std,sleep,physiology,sleep__wake_sin: within-person std
+sleep__wake_sin__extra_mad,sleep,physiology,sleep__wake_sin: within-person mad
+sleep__wake_sin__extra_cv,sleep,physiology,sleep__wake_sin: within-person cv
+sleep__wake_sin__extra_weekend_delta,sleep,physiology,sleep__wake_sin: within-person weekend_delta
+sleep__wake_cos__extra_mean,sleep,physiology,sleep__wake_cos: within-person mean
+sleep__wake_cos__extra_std,sleep,physiology,sleep__wake_cos: within-person std
+sleep__wake_cos__extra_mad,sleep,physiology,sleep__wake_cos: within-person mad
+sleep__wake_cos__extra_cv,sleep,physiology,sleep__wake_cos: within-person cv
+sleep__wake_cos__extra_weekend_delta,sleep,physiology,sleep__wake_cos: within-person weekend_delta

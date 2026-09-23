@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "fixed_candidates": 56,
+  "controlled_ablations": 16,
+  "feature_views": {
+    "all": 5144,
+    "no_context": 5132,
+    "context_only": 12,
+    "legacy": 1333,
+    "temporal": 3799,
+    "variability": 2268,
+    "activity_variability": 965,
+    "activity": 2278,
+    "sleep": 2856,
+    "physiology": 4294,
+    "paper_sleep": 2204,
+    "hr_drop": 377,
+    "circadian": 645,
+    "compact": 15,
+    "dem_single": 1
+  },
+  "classifier_fits": 0,
+  "subject_overlap": 0
+}

@@ -1,0 +1,165 @@
+{
+  "status": "passed",
+  "real_data_classifier_fits": 0,
+  "synthetic_native_candidates": 31,
+  "synthetic_subjects_train": 72,
+  "synthetic_subjects_prediction": 18,
+  "cases": [
+    {
+      "task": "flat",
+      "family": "catboost",
+      "selection": "anova"
+    },
+    {
+      "task": "flat",
+      "family": "logreg",
+      "selection": "anova"
+    },
+    {
+      "task": "flat",
+      "family": "svm",
+      "selection": "anova"
+    },
+    {
+      "task": "flat",
+      "family": "lda",
+      "selection": "anova"
+    },
+    {
+      "task": "flat",
+      "family": "extratrees",
+      "selection": "anova"
+    },
+    {
+      "task": "flat",
+      "family": "randomforest",
+      "selection": "anova"
+    },
+    {
+      "task": "flat",
+      "family": "histgb",
+      "selection": "anova"
+    },
+    {
+      "task": "flat",
+      "family": "rbf_ridge",
+      "selection": "anova"
+    },
+    {
+      "task": "flat",
+      "family": "xgboost",
+      "selection": "anova"
+    },
+    {
+      "task": "flat",
+      "family": "lightgbm",
+      "selection": "anova"
+    },
+    {
+      "task": "dem",
+      "family": "catboost",
+      "selection": "anova"
+    },
+    {
+      "task": "dem",
+      "family": "logreg",
+      "selection": "anova"
+    },
+    {
+      "task": "dem",
+      "family": "svm",
+      "selection": "anova"
+    },
+    {
+      "task": "dem",
+      "family": "lda",
+      "selection": "anova"
+    },
+    {
+      "task": "dem",
+      "family": "extratrees",
+      "selection": "anova"
+    },
+    {
+      "task": "dem",
+      "family": "randomforest",
+      "selection": "anova"
+    },
+    {
+      "task": "dem",
+      "family": "histgb",
+      "selection": "anova"
+    },
+    {
+      "task": "dem",
+      "family": "rbf_ridge",
+      "selection": "anova"
+    },
+    {
+      "task": "dem",
+      "family": "xgboost",
+      "selection": "anova"
+    },
+    {
+      "task": "dem",
+      "family": "lightgbm",
+      "selection": "anova"
+    },
+    {
+      "task": "cn_mci",
+      "family": "catboost",
+      "selection": "anova"
+    },
+    {
+      "task": "cn_mci",
+      "family": "logreg",
+      "selection": "anova"
+    },
+    {
+      "task": "cn_mci",
+      "family": "svm",
+      "selection": "anova"
+    },
+    {
+      "task": "cn_mci",
+      "family": "lda",
+      "selection": "anova"
+    },
+    {
+      "task": "cn_mci",
+      "family": "extratrees",
+      "selection": "anova"
+    },
+    {
+      "task": "cn_mci",
+      "family": "randomforest",
+      "selection": "anova"
+    },
+    {
+      "task": "cn_mci",
+      "family": "histgb",
+      "selection": "anova"
+    },
+    {
+      "task": "cn_mci",
+      "family": "rbf_ridge",
+      "selection": "anova"
+    },
+    {
+      "task": "cn_mci",
+      "family": "xgboost",
+      "selection": "anova"
+    },
+    {
+      "task": "cn_mci",
+      "family": "lightgbm",
+      "selection": "anova"
+    },
+    {
+      "task": "flat",
+      "family": "logreg",
+      "selection": "rfe"
+    }
+  ],
+  "note": "API, preprocessing, probability shape and serialization checks only; no performance claim."
+}

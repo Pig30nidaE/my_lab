@@ -1,0 +1,70 @@
+Using feature cache: features_ace307489ac40f60e694f469333865e85f633185d25a307c89d656cb2be27f30.joblib
+Extracting V3 heart-rate and calendar variability features...
+Using feature cache: features_2148c23335900b8a8a9da91a05df46d161e3fec7f577d20e061366499d3eac66.joblib
+Extracting V3 heart-rate and calendar variability features...
+{
+  "classifier_training_executed": false,
+  "subject_overlap": 0,
+  "splits": {
+    "Training": {
+      "subjects": 141,
+      "class_counts": {
+        "CN": 85,
+        "MCI": 47,
+        "DEM": 9
+      },
+      "representations": {
+        "subject_v1": {
+          "rows": 141,
+          "features": 670
+        },
+        "subject_plus": {
+          "rows": 141,
+          "features": 1333
+        },
+        "window14": {
+          "rows": 784,
+          "features": 1333
+        },
+        "window28": {
+          "rows": 449,
+          "features": 1333
+        },
+        "subject": {
+          "rows": 141,
+          "features": 5144
+        }
+      }
+    },
+    "SelectionValidation": {
+      "subjects": 33,
+      "class_counts": {
+        "CN": 26,
+        "MCI": 4,
+        "DEM": 3
+      },
+      "representations": {
+        "subject_v1": {
+          "rows": 33,
+          "features": 670
+        },
+        "subject_plus": {
+          "rows": 33,
+          "features": 1333
+        },
+        "window14": {
+          "rows": 196,
+          "features": 1333
+        },
+        "window28": {
+          "rows": 110,
+          "features": 1333
+        },
+        "subject": {
+          "rows": 33,
+          "features": 5144
+        }
+      }
+    }
+  }
+}

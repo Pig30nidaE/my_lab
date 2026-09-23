@@ -1,0 +1,4 @@
+# V3 extends the verified V2 numerical environment (Python 3.12).
+-r requirements_v2.txt
+xgboost==3.4.1
+lightgbm==4.7.0

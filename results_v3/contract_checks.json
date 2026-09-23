@@ -1,0 +1,8 @@
+{
+  "tests_run": 9,
+  "failures": 0,
+  "errors": 0,
+  "real_classifier_fits": 0,
+  "pipeline_fixture": "synthetic, temporary, estimator replaced by routing spy",
+  "status": "passed"
+}

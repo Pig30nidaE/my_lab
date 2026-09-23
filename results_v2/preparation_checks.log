@@ -1,0 +1,101 @@
+Using feature cache: features_ace307489ac40f60e694f469333865e85f633185d25a307c89d656cb2be27f30.joblib
+Using feature cache: features_2148c23335900b8a8a9da91a05df46d161e3fec7f577d20e061366499d3eac66.joblib
+[I 2026-09-22 20:14:05,397] A new study created in memory with name: no-name-133ece35-e870-444b-958e-ac82de329a10
+{
+  "status": "passed",
+  "classifier_fits": 0,
+  "subject_overlap": 0,
+  "fixed_ablation_conditions": 27,
+  "random_search_specs_constructed": 50,
+  "checks": [
+    "allowlisted features",
+    "representation subject coverage",
+    "outer/inner disjointness",
+    "class and subject sample weights",
+    "train-only preprocessing",
+    "estimator APIs",
+    "decision offsets do not change ROC inputs"
+  ],
+  "features": [
+    {
+      "split": "train",
+      "representation": "subject_v1",
+      "subjects": 141,
+      "rows": 141,
+      "features": 670,
+      "missing_fraction": 0.0,
+      "constant_or_empty_columns": 146,
+      "duplicate_complete_rows": 0
+    },
+    {
+      "split": "train",
+      "representation": "subject_plus",
+      "subjects": 141,
+      "rows": 141,
+      "features": 1333,
+      "missing_fraction": 4.788431150340777e-05,
+      "constant_or_empty_columns": 170,
+      "duplicate_complete_rows": 0
+    },
+    {
+      "split": "train",
+      "representation": "window14",
+      "subjects": 141,
+      "rows": 784,
+      "features": 1333,
+      "missing_fraction": 0.004146125817168578,
+      "constant_or_empty_columns": 166,
+      "duplicate_complete_rows": 0
+    },
+    {
+      "split": "train",
+      "representation": "window28",
+      "subjects": 141,
+      "rows": 449,
+      "features": 1333,
+      "missing_fraction": 0.0016657839292785334,
+      "constant_or_empty_columns": 166,
+      "duplicate_complete_rows": 0
+    },
+    {
+      "split": "validation",
+      "representation": "subject_v1",
+      "subjects": 33,
+      "rows": 33,
+      "features": 670,
+      "missing_fraction": 0.0,
+      "constant_or_empty_columns": 151,
+      "duplicate_complete_rows": 0
+    },
+    {
+      "split": "validation",
+      "representation": "subject_plus",
+      "subjects": 33,
+      "rows": 33,
+      "features": 1333,
+      "missing_fraction": 0.00022732955966264294,
+      "constant_or_empty_columns": 175,
+      "duplicate_complete_rows": 0
+    },
+    {
+      "split": "validation",
+      "representation": "window14",
+      "subjects": 33,
+      "rows": 196,
+      "features": 1333,
+      "missing_fraction": 0.0022199427407872375,
+      "constant_or_empty_columns": 173,
+      "duplicate_complete_rows": 0
+    },
+    {
+      "split": "validation",
+      "representation": "window28",
+      "subjects": 33,
+      "rows": 110,
+      "features": 1333,
+      "missing_fraction": 0.0013639773579758577,
+      "constant_or_empty_columns": 172,
+      "duplicate_complete_rows": 0
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "executed_nontraining_code_cells": [
+    3,
+    5,
+    7,
+    9,
+    14,
+    15,
+    17
+  ],
+  "skipped_training_code_cells": [
+    12
+  ],
+  "classifier_fit_guard": "all eight classifier fit APIs patched to raise",
+  "classifier_fits": 0,
+  "notebook_outputs_saved": false
+}

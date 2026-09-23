@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "code_cells_executed": [
+    "v3-cell-01",
+    "v3-cell-03",
+    "v3-cell-05",
+    "v3-cell-07",
+    "v3-cell-08",
+    "v3-cell-12",
+    "v3-cell-13",
+    "v3-cell-15"
+  ],
+  "training_cells_skipped": [
+    "v3-cell-10"
+  ],
+  "classifier_fit_methods": "blocked",
+  "real_data_classifier_fits": 0,
+  "notebook_outputs": "intentionally empty, unexecuted deliverable"
+}
